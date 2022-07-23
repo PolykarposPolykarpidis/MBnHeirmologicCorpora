@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+
+		<nameFile>gr_iviron1101_19v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		<!--musicPiece-->
+		<startingFolio>19v</startingFolio>
+		<initium>μεσιτης θεου και ανθρωπων γεγονας</initium>
+		<mode>2</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>b</startingPitch>
+		<composer>Anonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa, kkoo = b-
+ok2 = με
+o kr = σί
+a = της|
+i = θε
+o kr = ού|-
+a = και|
+i = αν
+p = θρώ
+a = πων|
+p = γέ
+ae2 = γο
+o = νας|
+p = χρι
+a om 1, oo om 1, a om 1, a om = στέ|
+a kl = ο|
+a = θε
+o dd, kkoo = ός|-
+i = δι
+p = ά|
+ae2 = σου|
+o = γαρ|
+ooi = δέ
+a = σπο
+aa, kkoo = τα|-
+ookk = την|
+a = προς|
+a = τον|
+i = αρ
+p = χί
+ae2 = φω
+o = τον|
+i = πα
+ooi = τέ
+a = ρα|
+aa, kkoo = σου|-
+i = εκ|
+i = νυ
+ookk = κτός|
+a = α
+a = γνω
+p = σί
+a = ας| #χχχχχ
+i = προ
+p = σα
+ae2 = γω
+o = γήν|
+i = ε
+ooi = σχή
+a = κα
+a = μεν|
+</musicalPiece>
+</typeOfXMLFile>

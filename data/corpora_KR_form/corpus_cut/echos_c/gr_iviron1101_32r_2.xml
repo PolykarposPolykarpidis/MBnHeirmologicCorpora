@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_32r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>32r</startingFolio>
+		<initium>καινον το θαυμα και θεοπρεπες</initium>
+		<mode>3</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_c o, o, o dd = a-
+i = και
+ok2 dd, p = νόν|
+ae2 = το|
+o kl 1 v 1, a kl v = θαύ
+aa, oo = μα|
+oo = και|
+ae2 = θε
+a = ο
+pk2, kk = πρε
+e dd = πές|-
+o = της|
+o = παρ
+o = θέ
+i = νου|
+ookk = γαρ|
+a = την|
+a = κε
+p = κλει
+ae2 = σμέ
+po = νην|
+a dd = πύ
+a = λην|
+i = σα
+i dd, p = φώς|
+a kl 1 di 1, a kl di = δι
+a = ο
+o = δεύ
+o = ει|
+ook2 = κύ
+a = ρι
+a = ος|-
+p = γυ
+a kl vv 1, e vv = μνός|
+okk = εν|
+p = ει
+a dd = σό
+i ap = δω|-
+ae2 = και|
+o = σαρ
+o = κο
+oo = φό
+a = ρος|
+a kl 1 di 1, a kl di = ώ
+a = φθη|
+o = εν|
+o = ε
+o om 1, oo om 1, a om 1, a om = ξό
+a = δω|
+i = θε
+i = ός|-
+ok3 = και|
+i v 1, e v 1, p = μέ
+ae2 = νει|
+ok3 = η|
+i v 1, e v, p = πύ
+ae2 = λη|
+p = κε
+ae2 = κλει
+pk2, kk = σμέ
+ae2 = νη|-
+i = ταύ
+o = την|
+o = α
+o = φρά
+i = στως|
+i = ως|
+i = θε
+i = ο
+p = μή
+a = το
+p = ρα|
+ae2 = με
+po = γα
+a dd = λύ
+a dd = νο
+i = μεν|
+</musicalPiece>
+</typeOfXMLFile>

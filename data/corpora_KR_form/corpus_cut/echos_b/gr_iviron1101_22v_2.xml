@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_22v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>22v</startingFolio>
+		<initium>εικονος χρυσης εν πεδιω δεειρα</initium>
+		<mode>2</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa = G -
+ok2 = ει
+o kr = κό
+a = νος |
+i = χρυ
+o kr = σής |-
+a = εν |
+i = πε
+ookk = δί
+a = ω |
+a = δε
+i = ει
+i = ρά |
+p = λα
+ae2 = τρευ
+o kl 1, a kl = ο
+aa = μέ
+i = νης |-
+i v 1, kk v = οι |
+ae2 = τρεις |
+ok3 = σου |
+i dd, oo = παί
+i dd, p = δες |
+ae2 = κα
+i = τε
+ook2 = πά
+a = τη
+a = σαν | #μετά έχει μία συλλαβή αλλά την παρέλληψα προσαρμώζοντας το διάστημα
+o = α
+i = θε
+i kr = ω
+a = τά
+i = του |
+pi = προ
+ae2, kk = στάγ
+o dd = μα
+i dd = τος |- # den eixeayth th sylabh
+ooi = μέ
+a = σον |
+a kl = δε |
+a = πυ
+o = ρός |
+p = εμ
+ae2 = βλη
+o = θέ
+i dd, kkoo = ντες |-
+i = δρο
+i = σι
+o kr = ζό
+a = με
+i = νοι |
+p = έ
+a = ψαλ
+i = λον |-
+i = ευ
+i = λο
+i = γη
+p = τός |
+a = εί |
+i = κύ	#den yparxei h syllavh
+i = ρι	#den yparxei h syllavh
+i = ε |	#den yparxei h syllavh
+i = ο |
+i = θε
+p = ός |
+ae2 = ο |
+o = τών |
+p = πα
+a om 1, oo om 1, a om 1, a om = τέ
+a kl = ρων |
+a = η
+o ap = μών |
+</musicalPiece>
+</typeOfXMLFile>
