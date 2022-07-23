@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_75r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>75r</startingFolio>
+		<initium>αφλεκτος πυρι εν σινα προσομιλουσα βατος θεον εγνωρισε</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd, oo = G - #το διόρθωσα
+ooi = ά
+a = φλε
+a = κτος|
+o = πυ
+ok2 dd = ρί|-
+i = εν|
+i = σι
+i = νά|
+oo = προ
+a = σο
+a = μι
+o dd, kkoo = λού
+i = σα|
+p = βά
+a = τος|-
+i = θε
+pi = όν|
+a = ε
+oo = γνώ
+a = ρι
+a = σε|-
+i = τω|
+i = βρα
+po = δυ
+a kl 1 di 1, a kl di = γλώσ
+a = σω|
+okk = και|
+o kl 1 v 1, ae3 kl v = δυ
+o dd = σή
+a = χω|
+a = μω
+o ap = σεί|-
+a kl = και|
+a = παί
+o = δας|
+o dd, oo = ζή
+i = λος|-
+i = θε
+ook2 = ού|
+a = τρείς|
+a = α
+i = να
+ook2 = λώ
+a = τους|
+a = τω|
+po = πυ
+a kl 1 di 1, a kl di = ρί|
+a = υ
+o = μνω
+i = δούς|
+oo = έ
+a = δει
+aa = ξε|-
+i xkl 1, a xkl kl = πά
+a = ντα|
+o = τά|
+o dd, oo = έρ
+i = γα|-
+i = κυ
+ok2 xkl 1, a xkl kl = ρί
+a = ου|
+i = τόν|
+i = κύ
+oo = ρι
+a = ον|
+a = υ
+o kr = μνεί
+a dd, p = τε|-
+a = και|
+a kl = υ
+a = πε
+o = ρυ
+o dd, oo = ψού
+i = τε|-
+i = εις|
+i = πά
+pi = ντας|
+a = τούς|
+o kl 1 v 1, a kl v = αι
+aa = ώ
+i = νας|
+</musicalPiece>
+</typeOfXMLFile>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_121r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>121r</startingFolio>
+		<initium>εκνοον προσταγμα τυραννου δυσσεβους λαους εκλονησε</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld i dd = G -
+ooh4 = έ
+i = κνο
+i = ον|
+oo is g psr = πρό
+a klr = σταγ
+ae2 = μα|
+o = τυ
+po l 1 g = ράν
+a l ap = νου|-
+i = δυσ
+i is g = σε
+ook2 psr = βούς|
+a klr = λα
+aa = ούς|-
+i = ε
+ooi is g psr = κλό
+a klr = νη
+aa = σε|-
+ok2 is g = πνέ
+i = ον|
+pi l 1 = α
+a l 1 = πει
+p l = λής|
+ae2 = καί|
+i xkl 1 trr 1, oo xkl 1 trr 1 g = δυ
+a xkl 1 trr 1, a xkl trr= σφη
+a, kkoo, oo g = μί
+p anr = ας|
+a v 1 klr 1, a v klr = θε
+i v 1 klr 1, a v klr = ο
+pi l 1, a l 1 = στυ
+i l ap = γούς|-
+echos_d aa = G -
+oh4 = ό
+ae2 = μως|
+o is g = τρεις|
+o = παί
+pi = δας|
+a = ουκ|
+o = ε
+o = δει
+oo psr = μά
+a klr = τω
+aa = σε|-
+i = θυ
+p anr = μός|
+a = θη
+i = ρι
+pi l 1 = ώ
+a l = δης|
+o = ου|
+o = πύρ|
+oo is g psr = βρό
+a = μι
+a anr = ον|-
+a kl = αλ|
+a = λα
+o = ντη
+po klr = χού
+a ap = ντι|-
+pi is g = δρο
+a = σο
+o = βό
+o = λω|
+oo psr = πνεύ
+a klr = μα
+aa = τι|-
+i = πυ
+pi anr = ρί|
+a = συ
+o = νό
+o = ντες|
+oo psr = έ
+a klr = ψαλ
+aa = λον|-
+pi klr = ο|
+ae2 = υ
+o = πε
+po l 1 = ρύ
+a is g l = μνη
+i ap = τος|-
+echos_d aa, ooh4 = d -
+i = τών|
+i = πα
+ook2 psr = τέ
+a = ρων|
+a anr 1 = καί|
+a anr kl = η
+a xkl 1 trr 1, oo xkl 1 trr 1 g = μών|
+a xkl 1 trr 1, a xkl trr = θε
+a = ός|
+ok2kk g = ευ
+p anr = λο
+a v 1 klr 1, a v klr = γη
+i v 1 klr 1, a v klr , pi, a = τός|
+i ap = εί|
+</musicalPiece>
+</typeOfXMLFile>

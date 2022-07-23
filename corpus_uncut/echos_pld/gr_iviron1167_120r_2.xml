@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_120r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>120r</startingFolio>
+		<initium>εισακηκοα κυριε της οικονομιας σου το μυστηριον</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>c</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_d i dd, ook3 = c -
+a = ει
+o = σα
+o = κή
+i = κο
+i = α|
+oo psr = κύ
+a klr = ρι
+aa = ε|-
+ok2 = της|
+i = οι
+i g = κο
+i = νο
+i xkl 1, ook2 xkl 1, a xkl 1, a xkl = μί
+a = ας|
+ook2 = σου|
+a = το|
+a = μυ
+p = στή
+ae2 vr = ρι
+o dd = ον|-
+i = κα
+o = τε
+p klr = νό
+a = η
+i = σα|
+pi l 1 = τα|
+ae2 l = έρ
+o g = γα|
+o ap= σου|-
+ae2 = και|
+o = ε
+k v 1 klr 1 l 1, a v klr l 1, p l = δό
+ae2 = ξα
+o = σά|
+i = σου|
+pi anr = την|
+a = θε
+oo psr = ό
+a klr = τη
+aa = τα|
+</musicalPiece>
+</typeOfXMLFile>

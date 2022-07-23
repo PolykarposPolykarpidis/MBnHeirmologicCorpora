@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_103r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>103r</startingFolio>
+		<initium>αφλεκτος πυρι εν σινα προσομιλουσα βατος θεον εγνωρισε</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+po l 1 = ά
+a l is g= φλε
+i ap = κτος|-
+i = πυ
+i v 1 klr 1 ll 1, s v klr ll 1, p ll = ρί|
+ae2 = εν|
+i = σι
+oo psr = νά|
+a is g = προ
+a = σο
+i = μι
+o dd, kkoo l g = λού
+i ap = σα|-
+echos_c i, i = F -
+ok2 = βά
+i = τος|
+i = θε
+p anr = όν|
+a = ε
+oo psr = γνώ
+a klr 1 = ρι
+aa klr = σε|-
+i = τω|
+i is g = βρα
+i = δυ
+ooi is g psr = γλώσ
+a anr 1 = σω|
+a anr klr = και|
+a = δυ
+po = σή
+ae2 = χω|
+o g = μω
+o ap = σεί|-
+echos_c i, i = F -
+i = και|
+ok2 = παί
+i = δας|
+oo psr = ζή
+a klr = λος|
+a = θε
+i ap = ού|-
+echos_d o dd = G - # το διόρθωσα
+i is g = τρείς|
+i = α
+i = να
+oo psr = λώ
+a klr = τους|
+ae2 = τω|
+o = πυ
+o ap = ρί|-
+i = υ
+i is g = μνω
+o = δούς|
+ooi psr = έ
+a klr 1 = δει
+aa klr = ξε|-
+po anr = πά
+a = ντα|
+a v 1 klr 1, a v klr = τά|
+o xkl 1 trr 1, oo xkl 1 trr 1 g, a xkl 1 trr 1, a xkl trr = έρ
+a = γα|-
+i = τόν|
+ok2 = κύ
+pi psr = ρι
+e v kl = ον|
+a = υ
+o dd is g , kkoo l 1 g = μνεί
+i l ap = τε|-
+echos_c i, i = F -
+po klr = και|
+a = υ
+pi l 1 = πε
+a v 1 klr 1 l 1, a v klr l = ρυ
+p trr = ψού
+ae2 = τε|-
+i = εις|
+ok2 g = πά
+pi psr = ντας|
+e v klr = τούς|
+a = αι
+o dd, kkoo l 1 g = ώ
+i l ap = νας|
+</musicalPiece>
+</typeOfXMLFile>
