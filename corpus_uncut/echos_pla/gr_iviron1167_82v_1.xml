@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_82v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>82v</startingFolio>
+		<initium>την θειαν εννοησας σου κενωσιν</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa = a -  # βλ Ιβήρων 1154 φ 79v
+i = την|
+pi anr = θεί
+a = αν|
+o = εν
+o = νο
+okk g = ή
+pi l 1 = σας|
+ae2 l = σου|
+o = κέ
+i = νω
+i = σιν|-
+pi is g anr = προ
+ae3 = βλε
+o is g = πτι
+po g = κώς|
+a = ο|
+pi l 1 = αβ
+ae2 l = βα
+o ap = κούμ|-
+a is g = χρι
+o = στέ|
+o = εν|
+o is g = τρό
+pi anr = μω|
+a = ε
+oo psr = βό
+a klr = α|
+aa = σοι|-
+o = εις|
+o = σω
+pi l 1 = τη
+ae2 l = ρί
+p klr = αν|
+ae2 = λα
+po = ού|
+a ap = σου|-
+i = του|
+ook2 psr = σώ
+a = σαι|
+a klr = τους|
+a is g = χρι
+p = στούς|
+ae2 = σου|
+o g = ε
+okk = λή
+pi l 1 = λυ
+a l ap = θας|
+</musicalPiece>
+</typeOfXMLFile>

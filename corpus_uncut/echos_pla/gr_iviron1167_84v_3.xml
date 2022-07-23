@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_84v_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>84v</startingFolio>
+		<initium>τον εκ πατρος προ αιωνων γεννηθεντα υιον και θεον</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa = a - # βλ Ιβήρων 1154 φ 82r
+a = τον|
+o = εκ|
+o = πα
+o is g = τρός|
+pi is g = προ|
+a = αι
+o = ώ
+i ap = νων|-
+i = γεν
+i = νη
+pi anr = θέ
+ae3 = ντα|
+o = υι
+po klr = όν|
+a = και|
+pi l 1 g, a l 1 = θε
+i l ap = όν|-
+a = και|
+o = επ
+o = ε
+o = σχά
+pi anr = των|
+a = των|
+o is g = χρό
+i klr = νων|-
+i g = σαρ
+i = κω
+pi anr = θέ
+ae3 = ντα|
+o = εκ|
+i = παρ
+po g = θέ
+a = νου|
+pi, a l 1 = μη
+i is g l ap = τρός|-
+echos_a aa = a -
+i = ι
+o = ε
+o ap = ρείς|
+a = υ
+o is g = μνεί
+i ap = τε|-
+i = λα
+p = ός|
+a = υ
+pi anr = πε
+a = ρυ
+pi, a = ψού
+i ap = τε|-
+i = εις|
+ooi psr = πά
+a anr 1 = ντας|
+aa anr = τους|
+i = αι
+okk g = ώ
+i ap = νας|
+</musicalPiece>
+</typeOfXMLFile>

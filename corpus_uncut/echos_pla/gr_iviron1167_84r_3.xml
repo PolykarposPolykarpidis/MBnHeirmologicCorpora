@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_84r_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>84r</startingFolio>
+		<initium>ορθριζοντες βοωμεν σοι κυριε σωσον ημας</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa = a - # βλ Ιβήρων 1154 φ 81v
+i = ορ
+pi anr = θρί
+a = ζο
+o = ντες|
+o = βο
+o = ώ
+pi anr = μεν|
+a = σοι|
+o g = κύ
+i = ρι
+i ap = ε|-
+ooi psr = σώ
+a klr = σον|
+a = η
+i ap = μάς|-
+ok2 = συ|
+i anr 1 = γαρ|
+pi anr = ει|
+a = θε
+oo psr = ός|
+a = η
+aa klr = μών|-
+a = εκ
+p is g l 1= τός|
+a l = σου|
+p = άλ
+ae2 = λον|
+o = ουκ|
+okk g = οί
+pi l 1 = δα
+a l ap = μεν|
+</musicalPiece>
+</typeOfXMLFile>

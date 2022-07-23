@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_65v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>65v</startingFolio>
+		<initium>σε την υπερ νουν και λογον μητερα θεου</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>d</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pla aa, ook3 = d -
+o kr = σε|
+a = την|
+i = υ
+i = πέρ|
+p = νουν|-
+a = και|
+p = λό
+ae3, kk = γον|
+ae2 = μη
+o dd, oo kl = τέ
+ae2 = ρα|
+okk = θε
+o dd = ού|-
+i = την|
+p = εν|
+a xkl 1, a xkl kl = χρό
+a, kk = νω|
+o = τον|
+p = ά
+e v 1, a v = χρο
+a = νον|-
+ok2 = α
+pi = φρά
+ae3 = στως|
+ok3 v 1, a v = κυ
+o dd, p = η
+a dd = σα
+i dd, oo kl = σαν|-
+ae2 = οι|
+o = πι
+ok2 kr = στοί|-
+a = ο
+p = μο
+ae2 kl = φρό
+a = νως|
+o = με
+o = γα
+o kr = λύ
+a v 1, kk v 1, e v = νο
+o ap = μεν|
+</musicalPiece>
+</typeOfXMLFile>

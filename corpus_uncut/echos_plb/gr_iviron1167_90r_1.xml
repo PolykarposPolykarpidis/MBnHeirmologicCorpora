@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_90r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>90r</startingFolio>
+		<initium>ουκ εστιν αγιος ως συ κυριε ο θεος μου</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa = G -
+i = ουκ|
+i g = έ
+i = στιν|
+o = ά
+p l 1= γι
+ae2 l = ος|
+o = ως|
+o trr ap = συ|-
+ook2 psr = κύ
+a = ρι
+a = ε|
+p = ο|
+a g = θε
+p l 1= ός|
+a l ap = μου|-
+a anr 1 kl = ο|
+a anr = υ
+o = ψώ
+pi l 1 = σας|
+a l = το|
+ok2 = κέ
+i trr 1 ap = ρας|-
+ae2 trr = των|
+i = πι
+ok2 l 1= στων|
+pi l 1 = σου|
+ae2 = α
+o g = γα
+o ap = θέ|-
+i = και|
+i = στε
+o = ρε
+oo psr = ώ
+a klr = σας|
+a = η
+pi anr = μάς|-
+a = εν|
+o = τη|
+p = πέ
+a is g anr = τρα|
+pi l 1= της|
+ae2 l = ο
+o = μο
+o = λο
+ooi psr = γί
+a klr = ας|
+aa = σου|
+</musicalPiece>
+</typeOfXMLFile>
