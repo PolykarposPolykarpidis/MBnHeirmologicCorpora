@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_131v_1</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>131v</startingFolio>
+		<initium>εκνοον προσταγμα τυραννου δυσσεβους λαους εκλονησε</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld i dd = G -
+oh4 = έ
+i = κνο
+i = ον|
+pi = πρό
+ae2 = σταγ
+o = μα|
+ook2, kk = τυ
+i v 1, a v, pi, a = ράν
+i ap = νου|
+i = δυσ
+o = σε
+oo = βούς|
+a = λα
+a = ούς|
+a = ε
+oo = κλό
+a = νη
+aa = σε|-
+ok2 = πνέ
+pi = ον|
+ae2 = α
+o = πει
+o ap = λής|
+i = καί|
+pi = δυ
+a = σφη
+p, a ,a = μί
+aa = ας|
+ook2 = θε
+a = ο
+a = στυ
+a ap = γούς|-
+i = ό
+ok2 = μως|
+o = τρεις|
+o dd, oo = παί
+pi = δας|
+a = ουκ|
+o = ε
+o = δει
+p, a = μά
+i v 1, a v, pi, a = τω
+i ap = σε|-
+ac4 = θυ
+i dd, kkoo, oo, o dd = μός|
+i = θη
+i = ρι
+p = ώ
+pa, a, a = δης|
+aa = ου|
+ook2 = πύρ|
+a = βρό
+a = μι
+aa = ον|-
+i = αλ|
+ok2 = λα
+o = ντη
+o, oo, a, a = χού
+o ap = ντι|
+i = δρο
+o = σο
+pi = βό
+e v 1, a v = λω|
+o dd, kkoo, oo = πνεύ
+i v 1, a v, pi, a = μα
+i ap = τι|-
+i = πυ
+p = ρί|
+a = συ
+o = νό
+o = ντες|
+p, a = έ
+i v 1, a v, pi, a = ψαλ
+i ap = λον|-
+i = ο|
+ok2 = υ
+o = πε
+p, a = ρύ
+a v 1, a v, i v 1, a v = μνη
+i ap = τος|-
+i = τών|
+o = πα
+oo = τέ
+a = ρων|
+a = καί|
+a = η
+o ap = μών|
+pe = θε
+a = ός|
+o = ευ
+ookk = λο
+a v 1, a v = γη
+i v 1, a v, pi, a = τός|
+i ap = εί|
+</musicalPiece>
+</typeOfXMLFile>

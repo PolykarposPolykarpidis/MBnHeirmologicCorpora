@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_81v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>81v</startingFolio>
+		<initium>ιλασθητι μοι σωτηρ πολλαι γαρ αι ανομιαι μου</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>c</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld ok3 , i dd = c -
+ae3 = ι
+ok3 = λά
+i = σθη
+p = τί|
+ae2 = μοι|
+o = σω
+o dd, p = τήρ|-
+ae2 = πολ
+p = λαί|
+a = γαρ|
+p = αι|
+a kl = α
+a = νο
+pkk = μί
+a v 1, a v = αι|
+o dd = μου|-
+ae3 = και|
+ok3 = εκ|
+i = βυ
+p = θού|
+ae2 = των|
+o = κα
+o dd = κών|-
+i = α
+ookk = νά
+a = γα
+a = γε|
+p = δέ
+ae2 = ο
+o dd = μαι|-
+i = προς|
+i = σε|
+ooi = γαρ|
+a = ε
+a = βό
+a = η
+aa, kkoo = σα|-
+i = και|
+i = ε
+i = πά
+po = κου
+a om 1, oo om 1, a om 1, a om = σόν|
+aa = μου|-
+ok3 = ο|
+i = θε
+ooi = ός|
+a = της|
+a = σω
+o = τη
+p = ρί
+ae3 = ας|
+o ap = μου|
+</musicalPiece>
+</typeOfXMLFile>
