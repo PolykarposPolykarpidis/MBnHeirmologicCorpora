@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_65r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>65r</startingFolio>
+		<initium>ιλασμος ημιν χριστε και σωτηρια ο δεσποτης</initium>
+		<mode>4</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>b</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa, ookk = b -
+i = ι
+i = λα
+ook2 psr = σμός|
+a kl = η
+a = μίν|
+i is g = χρι 
+i is = στέ| 
+ok2 g = και|
+pi klr = σω
+a kl = τη
+ae2, po = ρί
+a ap = α|-
+echos_b aa = b -
+ok2 = ο|
+i = δε
+p is g = σπό
+a = της|
+ooi psr = έ
+a klr 1 = λαμ
+a klr = ψας|
+i = εκ|
+o v 1 klr 1 l 1, a klr 1 v l 1, p klr l = τής|
+ae2 = παρ
+po l 1 g = θέ
+a l ap = νου|-
+echos_b aa = b -
+oh4 = ίν|
+pi klr = ως|
+a is g = προ
+p l 1= φή
+ae2 l = την|
+ae2 = θη
+po klr = ρός|
+a g = εκ|
+i v 1 l 1, a v l 1, p l klr = θα
+ae2 = λα
+po l 1 = τί
+a l ap = ου|-
+echos_b aa = b -
+ok2 = στέρ
+i = νων|
+i = ι
+i = ω
+ooi psr = νάν|
+a = της|
+ae2 = φθο
+ook2 psr = ράς|
+a = δι
+a kl = αρ
+ae2 l 1, kkoo l g= πά
+i ap = σης|-
+echos_a aa = a -
+ok3 = ό
+pi klr = λον|
+ae2 = τόν|
+o = α
+o ap = δάμ| #επειδή την έω βρει αλλού τη φράση είναι εννοιά παρολο που έχει απόδερμα και είναι σε τελευταία συλλαβή λέξης
+ae2 = παγ
+i = γε
+po klr = νή|
+a v 1 l 1, a v l 1, p l klr = πε
+ae2 = πτω
+po l 1 g = κό
+a l ap = τα|
+</musicalPiece>
+</typeOfXMLFile>

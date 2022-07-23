@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_93r_2</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>93r</startingFolio>
+		<initium>ιππον και αναβατην εις θαλασσαν ερυθραν</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>D</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pla aa = D -
+oh4 = ίπ
+i = πον|
+i = και|
+i = α
+o = να
+o = βά
+pi = την|
+a = εις|
+p = θά
+ae2 = λασ
+o = σαν|
+pi = ε
+ae2 = ρυ
+o ap = θράν|-
+i = ο|
+o = συ
+okk = ντρί
+a = βων|
+a = πο
+o = λέ
+pi = μους|
+ae2 = εν|
+p = υ
+a = ψη
+o = λώ|
+oo = βρα
+a = χί
+a = ο
+i ap = νι|-
+echos_a aa, ooh4 = a-
+a = χρι
+o dd, kkoo, oo = στός|
+pi = ε
+a = ξε
+p = τί
+a v 1, a v = να
+o ap = ξεν|-
+pi = ισ
+ae2 = ρα
+o = ήλ|
+o = δε|
+i v, a v = έ
+i v, a v = σω
+i ap = σεν|-
+a = ε
+i = πι
+p = νί
+a = κι
+p = ον|
+ae2 = ύ
+o = μνον|
+o, kkoo = ά
+pi, s, a = δο
+o ap = ντα|
+</musicalPiece>
+</typeOfXMLFile>

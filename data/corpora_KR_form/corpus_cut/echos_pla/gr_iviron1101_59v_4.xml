@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_59v_4</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>59v</startingFolio>
+		<initium>μαινομενην κλυδωνι ψυχοφθορω δεσποτα</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pla aa = a -
+a = μαι
+o = νο
+okk = μέ
+o = νην|
+p = κλύ
+e v 1, a v = δω
+a = νι|
+i = ψυ
+okk = χο
+ok2 = φθό
+i dd = ρω|
+ooi = δέ
+a = σπο
+a = τα|
+o v 1, e v = χρι
+o dd = στέ|-
+a, kk = των|
+okk = πα
+pi = θών|
+a v 1, a v = την|
+pkk = θά
+e v 1, a v = λασ
+a = σαν|
+i = κα
+ook2 = τεύ
+a = να
+a = σον|-
+i = και|
+o = εκ|
+o = φθο
+ok2 kr = ράς|
+a = α
+p = νά
+a = γα
+p = γέ|
+ae3, kk = με|
+ae2 = ως|
+o dd, oo kl = εύ
+e dd = σπλαγ
+i = χνος|
+</musicalPiece>
+</typeOfXMLFile>

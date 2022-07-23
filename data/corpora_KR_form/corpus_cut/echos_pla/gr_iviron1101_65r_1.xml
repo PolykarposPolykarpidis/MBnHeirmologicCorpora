@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_65r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>65r</startingFolio>
+		<initium>εισακήκοα την ακοην της δυναστειας του Σταυρου σου</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pla aa = a -
+a = ει
+o = σα
+okk = κή
+o = κο
+i = α|
+pi = την|
+ae2 = α
+o = κο
+ook2, kk = ήν|
+a = της|
+a = δυ
+i = να
+oo = στεί
+ae2 = ας|
+a = του|
+a = σταυ
+i dd = ρού|-
+o = ως|
+o = πα
+ook2, kk = ρά
+a = δει
+pi = σος|
+a = η
+pk2, kk = νοί
+ae2 = γη|
+pi = δι
+a = αυ
+o xkl 1, a xkl 1, oo xkl kl = τού|-
+ae3 = και|
+o = ε
+ook2, kk = βό
+a = η
+a = σα|
+o kr = δό
+a = ξα|
+i = τη|
+i = δυ
+p = νά
+ae2 = μει|
+o = σου|
+o kr = κύ
+a v 1, kk v 1, e v = ρι
+o ap = ε|
+</musicalPiece>
+</typeOfXMLFile>
