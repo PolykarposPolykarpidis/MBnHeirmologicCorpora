@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_71r_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>71r</startingFolio>
+		<initium>αβυσσος εσχατη αμαρτηματων εκυκλωσε με</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>E</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa = E -
+i v 1, kk v = ά
+e dd, ookk = βυσ
+a dd, kkoo = σος|-
+i = ε
+p = σχά
+a = τη|
+i = α
+i = μαρ
+i = τη
+p = μά
+ae3 = των|-
+o v 1 kl 1, a v kl = ε
+aa, ookk = κύ
+a, kk = κλω
+pkk = σέ|
+a dd = με|-
+i = και|
+i = τον|
+ook2 = κλύ
+a = δω
+a = να|-
+i = μη
+p = κέ
+ae2 = τι|
+ook2, a, p ps, a, a = φέ
+a = ρων|-
+i = ως|
+i = ι
+i = ω
+oo kl = νάς|
+ae2 = τω|
+okk = δε
+po = σπό
+a = τη|-
+i = βο
+ok2 kr = ώ|
+a = σοι|
+i = εκ|
+i = φθο
+p = ράς|
+a, kk = με|
+ae2 = α
+o dd, a = νά
+a, a = γα
+i = γε|
+</musicalPiece>
+</typeOfXMLFile>
