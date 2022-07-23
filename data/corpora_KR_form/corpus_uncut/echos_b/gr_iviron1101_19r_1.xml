@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+
+		<nameFile>gr_iviron1101_19r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		<!--musicPiece-->
+		<startingFolio>19r</startingFolio>
+		<initium>εν βυθω κατεστρωσε ποτε την φαραωνιτιδα</initium>
+		<mode>2</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>b</startingPitch>
+		<composer>Anonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa, kkoo = b-
+i = εν|
+i = βυ
+pi = θώ|
+a = κα
+oo = τέ
+a = στρω
+a = σε|
+o = πο
+o dd = τέ|-
+i v 1, kk v = την|
+ae2 = φα
+okk = ρα
+o = ω
+ooi = νί
+a = τι
+a = δα|-
+i = παν
+i = στρα
+i = τι
+ook2 = άν|
+a = η|
+a = υ
+oo kl = πέ
+ae2 = ρο
+ok3 = πλος|
+ooi = δύ
+a = να
+aa = μις|-
+i = σαρ
+p = κω
+ae2 = θείς|
+o = ο|
+ooi = λό
+a = γος|
+aa, kkoo = δε|-
+i = την|
+i = παμ
+ookk = μό
+a = χθη
+a = ρον|
+i = α
+i = μαρ
+oo kl = τί
+ae2 = αν|
+o = ε
+ooi = ξή
+a = λει
+a = ψεν|-
+i v 1, kk v = ο|
+ae2 = δε
+o = δο
+o = ξα
+o dd, oo = σμέ
+i dd = νος|
+oo = κύ
+a = ρι
+a = ος|-
+i = εν
+p = δό
+ae2 = ξως|
+o = γαρ|
+i = δε
+ooi = δό
+a = ξα
+a = σται|
+</musicalPiece>
+</typeOfXMLFile>
