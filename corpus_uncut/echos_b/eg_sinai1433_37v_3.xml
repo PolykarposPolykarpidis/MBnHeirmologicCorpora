@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_37v_3</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>37v</startingFolio>
+		<initium>Τω δογματι τω τυρανικω οι οσιοι</initium>
+		<mode>2</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>b</startingPitch>
+		<composer>balasis the priest</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa, kkoo = b -
+i = τω|
+ook2 = δό
+a = γμα
+aa, po = τι|-
+ae2 = τω|
+pi = τυ
+ae2 = ραν
+o = νι
+o ap = κώ|-
+i = οι|
+pk3 = ό
+a = σι
+ae2 = οι|-
+p = τρεις|
+a = παί
+a = δες|
+o, oo, a, a = μη|
+aa = πεισ
+pk3 = θέν
+a ap = τες|- #echos_b aa =  b -
+ok2 = εν|
+pi = τη|
+a = κα
+p = μί
+ae2 = νω|
+i = βλε
+p = θέν
+pa = τες|
+a v 1, a v = θε
+o dd, o dd, ook2, a, aa, kkoo = ον|-
+i = ω
+pi, a, a = μο
+aa = λό
+k v 1, e v = γουν|
+o dd = ψάλ
+a ve 1, a ve = λον
+i dd = τες|- #echos_b aa = G -
+ok2, oo, a, a = ευ
+aa = λο
+pk3 = γεί
+a ap, kkoo = τε|-
+i = τα|
+p = έρ
+a = γα|
+i = κυ
+o = ρί
+pi = ου|
+e v 1, a v = τον|
+aa, kkoo = κύ
+a dd = ρι
+i ap = ον|
+</musicalPiece>
+</typeOfXMLFile>

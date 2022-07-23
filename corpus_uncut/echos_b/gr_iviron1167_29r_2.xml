@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+
+		<nameFile>gr_iviron1167_29r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		<!--musicPiece-->
+		<startingFolio>29r</startingFolio>
+		<initium>αντιθεον προσταγμα παρανομουντος τυραννου μεταρσιον</initium>
+		<mode>2</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>b</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa = b-
+o = α
+ok2 g = ντί
+pi anr 1 = θε
+a anr = ον|
+po is g klr = πρό
+a = σταγ
+ooi psr = μα|
+a kl = πα
+ae2 = ρα
+o = νο
+po l 1 = μού
+a l ap = ντος|-
+o = τυ
+okk g = ράν
+pi anr = νου|
+a = με
+oo psr = τάρ
+a = σι
+aa apr = ον|-
+a = την|
+p is g klr = φλό
+ae2 = γα|
+o = α
+oo psr = νερ
+a anr 1 = ρί
+a anr klr = πι
+aa ap = σε|-
+i is g = χρι
+ok3 g = στός|
+pi klr = δε|
+a = ε
+o = φή
+i is g = πλω
+i ap = σε|-
+i = θε
+i = ο
+o = σε
+oo ps g = βέ
+s = σι|
+a = παι
+o ap = σί|-
+ook2 = δρό
+a anr 1 = σον|
+a anr kl = την|
+a = του|
+po l 1 = πνεύ
+a l = μα
+i ap = τος|-
+a = ο|
+ook3 psr = ων|
+a = ευ
+a anr kl = λο
+a = γη
+o = μέ
+pi anr 1 = νος|-
+ae2 anr = και|
+o = υ
+oo psr = πε
+a = ρέν
+a anr klr = δο
+aa ap = ξος|
+</musicalPiece>
+</typeOfXMLFile>
