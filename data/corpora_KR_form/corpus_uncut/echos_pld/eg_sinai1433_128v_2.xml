@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_128v_2</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>128v</startingFolio>
+		<initium>ιλασθητι μοι σωτηρ πολλαι γαρ αι ανομιαι μου</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>c</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld ok3 , i dd = c -
+ae3 = ι
+ok3 = λά
+i = σθη
+p = τί|
+ae2 = μοι|
+o = σω
+o ap = τήρ|-
+a = πολ
+o = λαί|
+o = γαρ|
+oo = αι|
+a = α
+ae2 = νο
+p = μί
+a v 1, a v = αι|
+o ap = μου|-
+echos_c i, i = c -
+ae3 = και|
+ok3 = εκ|
+i = βυ
+p = θού|
+ae2 = των|
+o = κα
+o ap = κών|-
+i = α
+ook2 = νά
+a = γα
+a = γε|
+p = δέ
+ae2 v = ο
+o ap = μαι|-
+echos_d aa, ooh4 = d -
+i = προς|
+ooi, kk = σε|
+ooa = γαρ|
+a = ε
+a = βό
+a = η
+aa = σα|-
+pk3 = και|
+ae2 = ε
+o = πά
+o = κου
+okk = σόν|
+i ap = μου|-
+a = ο|
+o = θε
+p = ός|
+a = της|
+a = σω
+a = τη
+p = ρί
+a v 1, a v = ας|
+o ap = μου|
+</musicalPiece>
+</typeOfXMLFile>

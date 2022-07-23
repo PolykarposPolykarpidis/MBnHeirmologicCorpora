@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_86v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>86v</startingFolio>
+		<initium>ευλογειτε παιδες της τριαδος ισαριθμοι δημιουργον</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld i dd = G -
+i = ευ
+p = λο
+a dd, ook3 = γεί
+i = τε|
+o v 1, e v = παί
+o dd, p = δες|-
+ae2 = τής|
+o = τρι
+o kr = ά
+a kl 1 di 1, a kl di = δος|
+a = ι
+ook3 = σά
+a = ριθ
+a = μοι|-
+a = δη
+o = μι
+o = ουρ
+o ap = γόν|-
+pi = πα
+e om 1, oo om 1, a om 1, a om = τέ
+a = ρα|
+ok2 = θε
+pikk = όν|
+a kl 1 di 1, a kl di = υ
+aa, kkoo = μνεί
+i dd = τε|-
+pikk = τον|
+a kl 1 di 1, a kl di = συ
+a = γκα
+ok2 = τα
+pikk = βά
+a kl 1 di 1, a kl di = ντα|
+aa, ook3 = λό
+i dd, p = γον|-
+ae2 = και|
+o = το|
+o kr = πύρ|
+a = εις|
+p = δρό
+a kl 1 di 1, a kl di = σον|
+a = με
+o = τα
+o = ποι
+p = ή
+a v 1, a v = σα
+o om 1, oo om 1, a om 1, a om = ντα|-
+a = και|
+ok3 = υ
+i v 1, e v, p = πε
+ae2 = ρυ
+p = ψού
+a kl = τε|-
+ae3, kk = τό|
+o dd, oo = πά
+i = σι|
+p = ζω
+a kl = ήν|
+ae3, kk = πα
+o dd, oo = ρέ
+i dd = χον|-
+ok3 dd = πνεύ
+ooi = μα|
+a = πα
+a = νά
+a = γι
+a = ον|-
+ok2 = εις|
+pikk = τούς|
+a kl 1 di 1, a kl di = αι
+aa = ώ
+i = νας|
+</musicalPiece>
+</typeOfXMLFile>

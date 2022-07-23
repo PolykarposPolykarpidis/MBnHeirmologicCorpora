@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_111v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>111v</startingFolio>
+		<initium>ινα τι με απωσω απο του προσωπου σου το φως το αδυτον</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>c</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld i dd = c -
+a = ί
+o = να|
+o = τι|
+i = με|
+i = α
+p l 1 = πώ
+ae2 l = σω|-
+i = α
+i klr = πό|
+i = του|
+o is g = προ
+oo psr = σώ
+a klr = που|
+aa = σου|-
+a = το|
+o = φώς|
+o g = το|
+o = ά
+i = δυ
+i ap = τον|-
+ae2 = και|
+o = ε
+k v 1 klr 1 l 1, a v klr l 1, p l = κά
+ae2 = λυ
+o = ψέ|
+i ap = με|-
+a = το|
+i = αλ
+ook2 psr = λό
+a is g = τρι
+a = ον|
+p klr = σκό
+a = τος|
+i = τον|
+p = δεί
+a g = λαι
+i v 1 klr 1 ll 1, s v klr ll 1, p ll = ον|-
+ae2 = αλ
+a = λε
+o = πί
+o is g = στρε
+o = ψόν|
+i ap = με|-
+i = και|
+i is g = προς|
+i = το|
+o v 1 kl 1 ll 1, s v kl ll 1, p ll = φώς|
+ae2 = των|
+o = ε
+o = ντο
+p = λών|
+a ap = σου|-
+echos_d aa = c -
+i = τας|
+i = ο
+ok2 = δούς|
+pi anr = μου|
+a = κα
+o = τεύ
+pi anr = θυ
+a = νον|
+oo psr = δέ
+a klr 1 = ο
+aa klr ap = μαι|
+</musicalPiece>
+</typeOfXMLFile>

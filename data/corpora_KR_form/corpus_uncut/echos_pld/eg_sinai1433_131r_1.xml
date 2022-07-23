@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_131r_1</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>131r</startingFolio>
+		<initium>εισακηκοα κυριε της οικονομιας σου το μυστηριον</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>c</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld ok3, i dd = c -#το διόρθωσα
+a = ει
+o = σα
+p = κή
+a = κο
+okk = α|
+pi, a = κύ
+a v 1, a v = ρι
+o ap = ε|-
+pi = της|
+a = οι
+o = κο
+o = νο
+p = μί
+ae2, oo, a, oo = ας|
+o ap = σου|-
+i = το|
+pi = μυ
+ae2 = στή
+o = ρι
+o ap = ον|-
+a = κα
+o = τε
+o = νό
+o = η
+pi = σα|
+a v 1, a v = τα|
+oo = έρ
+a = γα|
+a ap = σου|-
+i = και|
+o = ε
+oo = δό
+a = ξα
+a = σά|
+p = σου|
+a = την|
+a = θε
+p = ό
+a v 1, a v = τη
+o ap = τα|
+</musicalPiece>
+</typeOfXMLFile>
