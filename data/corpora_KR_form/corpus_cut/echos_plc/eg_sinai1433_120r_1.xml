@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_120r_1</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>120r</startingFolio>
+		<initium>οι εν καμινω του πυρος εμβληθεντες οσιοι παιδες</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i = οι|
+i = εν|
+i = κα
+po= μί
+a = νω|
+i v 1, s v, p = του|
+ae2 = πυ
+ook2 = ρός|
+a = εμ
+ae2 = βλη
+o dd, kkoo, a = θέ
+o ap = ντες|
+ook3 = ό
+a = σι
+a = οι|
+p = παί
+a ap = δες|-
+i = το|
+i = πύρ|
+i = εις|
+i v 1, a v = δρό
+o = σον|
+po, a = με
+i v 1, a v = τέ
+i v 1, a v = βα
+i dd = λον|-
+echos_c i, i = F -
+i = δι
+po = ά|
+a = της|
+pi = υ
+a v 1, a v = μνω
+o, oo, a, a = δί
+aa = ας|
+ook2 = ού
+a = τω|
+ae2 = βο
+o dd, kkoo, a = ώ
+o ap = ντες|-
+ae2 = ευ
+o = λο
+o = γη
+o = τός|
+i = ει|
+p = κύ
+a = ρι
+i ap = ε|-
+ae2, kkoo = ο|
+p = θε
+a ap = ός|
+a = ο|
+a = των|
+a = πα
+ph4 = τέ
+e v = ρων|
+a = η
+o ap = μών|
+</musicalPiece>
+</typeOfXMLFile>

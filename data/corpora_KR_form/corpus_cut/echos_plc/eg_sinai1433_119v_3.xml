@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_119v_3</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>119v</startingFolio>
+		<initium>κατανοών ο προφητης την επ εσχατων σου χριστε ελευσιν</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i = κα
+i = τα
+o = νο
+o = ών|
+i = ο|
+i = προ
+p = φή
+ae2 ap = της|
+i = την|
+pi = ε
+a = πε
+o = σχά
+po, a = των|
+i v 1, a v = σου|
+i v 1, a v = χρι
+i ap = στέ|
+o v 1, s v, p = έ
+ae2 = λευ
+ook2 = σιν|
+a = α
+ae2 = νε
+o dd, kkoo, a = βό
+o dd= α|-
+i = την|
+ok2 = σήν|
+i = ει|
+i = σα
+oo = κή
+a = κο
+aa = α|-
+i v 1, s v, p = κύ
+ae2 = ρι
+ook2 = ε|
+a = δυ
+ae2 = να
+o dd, kkoo, a = στεί
+o ap = αν|-
+echos_c i, i = F -
+a = ό
+o = τι|
+o = πά
+i = ντας|
+i = του|
+p = σώ
+a ap = σαι|
+ae2, kkoo = τους|
+p = χρι
+a, a = στους|
+aa = σου|
+a = ε
+ph4 = λή
+e v 1, a v = λυ
+o ap = θας|
+</musicalPiece>
+</typeOfXMLFile>

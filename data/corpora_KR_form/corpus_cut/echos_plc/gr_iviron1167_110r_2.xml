@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_110r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>110r</startingFolio>
+		<initium>διασκεδασας την νυκτα των παθων λαμψον μοι φως νοερον</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i = δι
+i = α
+i is g = σκε
+po anr 1 = δά
+a anr kl = σας|
+ae3 = την|
+ok2 = νύ
+pi trr = κτα|
+e v 1 kl 1, a v kl = των|
+okk g = πα
+o ap = θών|-
+echos_c i, i = F -
+ok2 = λάμ
+i = ψον|
+i = μοι|
+oo psr  = φως|
+a klr = νο
+a = ε
+i ap = ρόν|-
+i = ο|
+i = το|
+i = αρ
+p klr = χέ
+a = γο
+i = νον|
+i is g = σκό
+ooi psr = τος|
+a klr = δι
+ae2 = ώ
+oo psr = ξας|
+a klr = της|
+a = α
+o dd, kkoo l = βύσ
+i ap = σου|-
+echos_c i, i = F -
+i = και|
+i = το|
+i is g = πρω
+po = τό
+a is g = κτι
+i = στον|
+i v 1 klr 1 ll 1, s v klr ll 1, p ll = φως|
+ae2 = κα
+i = τα
+oo psr = λάμ
+a klr 1 = ψας|
+a klr = τω|
+o dd, kkoo l 1, oo l g = κό
+i ap = σμω|-
+echos_d aa, ooh4 = G - #διόρθωσα. λάθος μαρτυρία
+a = δη
+a anr kl = μι
+a = ουρ
+po klr = γέ|
+ae2 = του|
+o g = πα
+o ap = ντός|
+</musicalPiece>
+</typeOfXMLFile>

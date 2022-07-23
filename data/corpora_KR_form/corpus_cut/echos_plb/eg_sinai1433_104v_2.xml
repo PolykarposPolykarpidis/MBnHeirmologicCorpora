@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_104v_2</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>104v</startingFolio>
+		<initium>χριστος μου δυναμις θεος και κυριος η σεπτη εκκλησια</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa, kkoo = G -
+i = χρι
+o = στός|
+o = μου|
+oo = δύ
+a = να
+ae2 ap = μις|-
+i = θε
+o = ός|
+o = και|
+oo = κύ
+a = ρι
+ae2 ap = ος|-
+i = η|
+i = σε
+ok2 = πτή|
+pi = εκ
+ae2 = κλη
+o = σί
+i = α|
+p = θε
+ae2 = ο
+o = πρε
+o ap = πώς|-
+a = μέλ
+oo = πει|
+a = α
+a = να
+o = κρά
+o = ζου
+i ap = σα|-
+a = εκ|
+i = δι
+o = α
+o = νοί
+oo = ας|
+a = κα
+a = θα
+i dd = ράς|-
+echos_b aa = b -
+i = εν|
+i = κυ
+pi = ρί
+ae2 = ω|
+o = ε
+o = ορ
+oo = τά
+a = ζου
+ae2 ap = σα|
+</musicalPiece>
+</typeOfXMLFile>

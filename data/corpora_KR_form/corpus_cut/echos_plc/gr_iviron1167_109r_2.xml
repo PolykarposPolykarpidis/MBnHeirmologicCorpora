@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_109r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>109r</startingFolio>
+		<initium>το δια τον φοβον σου ληφθεν κυριε εν γαστρι των προφητων</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i = το|
+i klr = δι
+i g = ά|
+i = τον|
+o = φό
+ooi psr = βον|
+a klr = σου|
+a = λη
+o dd is g, oo g = φθέν|
+oo psr = κύ
+a = ρι
+aa klr = ε|-
+i = εν|
+i = γα
+ok3 is g psr = στρί|
+a klr = τών|
+a is g = προ
+i = φη
+pi = τών|
+a klr 1 = και|
+ae2 klr = κυ
+i = η
+po klr = θέν|
+ae2 = ε
+o = πί|
+o ap = γης|-
+echos_c i, i = F -
+ok2 is g = πνεύ
+i = μα|
+i = σω
+i = τη
+p anr = ρί
+ae2 = ας|
+i = α
+i klr = πο
+i = στο
+i g = λι
+p klr = κάς|
+a = καρ
+i = δί
+i = ας|
+o is g = κτί
+ooi psr = ζει|
+a klr = κα
+a = θα
+i ap = ράς|-
+i = και|
+i = εν|
+i = τοις|
+i = πι
+pi anr = στοίς|
+a = ευ
+o dd, oo g = θές|
+i = ε
+i is g = γκαι
+oo psr = νί
+a klr 1 = ζε
+aa klr = ται|-
+ok2 = φώς|
+i = γαρ|
+i = και|
+i = ει
+p klr = ρή
+ae2 = νη|
+pi = δι
+ae2, kkoo l = ό
+oi = τι|
+a anr 1 = τά|
+a anr klr = σά|
+a is g = προ
+po klr = στάγ
+ae2, kk g = μα
+o ap = τα|
+</musicalPiece>
+</typeOfXMLFile>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_105r_2</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>105r</startingFolio>
+		<initium>εκ φλογος τοις οσίοις δροσον υπεδειξας και θυσιαν</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa, kkoo = G -
+ok2 = εκ|
+i = φλο
+ook2 = γός|
+a = τοις|
+a = ο
+i = σί
+pi = οις|
+ae2 = δρό
+o = σον|
+o = υ
+oo = πέ
+a = δει
+ae2 ap = ξας|-
+echos_b aa = G -
+ok2 = και|
+i = θυ
+ook2 = σί
+a = αν|
+a = δι
+i = και
+pi = ου|
+ae2 = ύ
+o = δα
+o = τι|
+oo = έ
+a = φλε
+ae2 = ξας|-
+echos_b aa = G -
+oh4 = ά
+a = πα
+a = ντα|
+ae2 = γαρ|
+o ap = δρας|-
+i = χρι
+o = στέ|
+i = μό
+oo = νω|
+a = τω|
+ae2 = βού
+o = λε
+o ap = σθαι|-
+a = σέ|
+i = υ
+i = πε
+o = ρυ
+p = ψού
+a ap = μεν|
+ae2 = εις|
+i = πά
+i = ντας|
+o v 1, a v, p = τους|
+ae2 = αι
+po = ώ
+a ap = νας|
+</musicalPiece>
+</typeOfXMLFile>

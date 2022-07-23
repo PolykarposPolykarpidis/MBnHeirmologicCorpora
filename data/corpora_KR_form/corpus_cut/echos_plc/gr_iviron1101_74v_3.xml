@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_74v_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>74v</startingFolio>
+		<initium>ναυτιων τω σαλω των βιοτικων μεληματων συμπλοοις</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd, oo = G - #διορθώθηκε
+ooi = ναυ
+a = τι
+a = ών|
+o = τω|
+o dd, oo = σά
+i dd = λω|
+i = των|
+i = βι
+i = ο
+i = τι
+oo = κών|
+a = με
+a = λη
+o dd, kkoo = μά
+i = των|-
+i v 1, a v = συ
+o dd, p = μπλό
+a kl = οις|
+a = πο
+oo = ντού
+a = με
+a = νος|
+i = α
+i = μαρ
+ook2 = τί
+a = αις|-
+a = και|
+i = ψυ
+i = χο
+ok2 xkl 1, a xkl kl = φθό
+a = ρω|
+po = θη
+a kl vv 1, e vv = ρί|
+o = προσ
+i = ρι
+oo = πτού
+a = με
+aa = νος|-
+ooi = ως|
+a = ο|
+a = ι
+o = ω
+ok2 = νάς|
+i = χρι
+po = στέ|
+a = βο
+o kl 1 v 1, a kl v = ώ|
+aa = σοι|-
+i = εκ|
+i = θα
+i = να
+i = τη
+i = φό
+po = ρου|
+a kl 1 di 1, a kl di = με|
+a = βυ
+okk = θού|
+o v 1 kl 1, ae3 v kl = α
+o kr = νά
+e v 1, kk v 1, e v = γα
+o ap = γε|
+</musicalPiece>
+</typeOfXMLFile>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_66r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>66r</startingFolio>
+		<initium>τω θειω φεγγει σου αγαθε τας των ορθριζοντων σοι ψυχας</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa, oo kl = F -
+ae2 = τω|
+ok3 = θεί
+i = ω|
+o dd = φέγ
+i = γει|
+p = σου|
+ae2 = α
+i = γα
+i dd = θέ|-
+e v 1, kk v = τας|
+ae2 = των|
+ok3 = ορ
+i = θρι
+o = ζό
+o = ντων|
+i = σοι|
+i = ψυ
+ook2 = χάς|-
+a = πό
+a = θω|
+i = κα
+ooi, kk = ταύ
+a = γα
+a = σον|
+p = δέ
+ae2 = ο
+o dd = μαι|-
+ookk = σε|
+a = ει
+a = δέ
+pkk = ναι|
+ae3 dd = λό
+e v 1, kk v = γε|
+ae2 = θε
+ok3 = ού|
+i = τον|
+o dd, p = ό
+ae2 = ντως|
+o = θε
+o ap = όν|-
+i = εκ|
+ooi = ζό
+a = φου|
+aa = των|
+o = πται
+p = σμά
+a = των|
+p = α
+ae2 = να
+ok2 = κα
+i ps kl, s, a = λού
+a, o, o, p = με
+a = νον|
+</musicalPiece>
+</typeOfXMLFile>

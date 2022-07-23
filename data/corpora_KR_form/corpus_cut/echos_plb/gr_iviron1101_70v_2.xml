@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_70v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>70v</startingFolio>
+		<initium>τμηθειση τμαται ποντος ερυθρος κυματοτροφος </initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa, oo kl  = F -
+ae2 = τμη
+ok3 = θεί
+i = ση|
+o kr = τμά
+a dd, oo, o dd = ται|-
+ooi, kk = πό
+a = ντος|
+a = ε
+i = ρυ
+ookk = θρός|
+a = κυ
+a = μα
+i = το
+ookk = τρό
+a = φος|
+a = δε|
+i = ξη
+ookk = ραί
+ae3 = νε
+a = ται|
+a= βυ
+i dd, oo kl = θός|-
+ae2 = ο|
+ok3 = αυ
+i = τός|
+o v 1, e v = ο
+o dd = μού|
+i = ά
+o dd, k v 1, e v = ο
+o om 1, oo om 1, a om 1, a om = πλης|
+a = γε
+o = γο
+i = νώς|-
+i = βα
+kkoo z = τός|
+ae2 = και|
+i = πα
+i = νο
+i om 1, ook2 om 1, a om 1, a om = πλί
+a, kk = ταις| # εγώ πρόσθεσα την απόστροφο
+a kl 1 di 1, a kl di = τά
+aa, kkoo = φος|-
+ok2 = ω
+ook2 = δή|
+a = δε|
+a = θε
+i = ο
+i = τερ
+oo kl = πής|
+a di 1, a di = α
+k v 1, e v = νε
+o dd = μέλ
+a ve 1, a ve = πε
+i = το|-
+i = εν
+ook2, kk = δό
+a = ξως|
+a = δε
+p = δό
+ae2 = ξα
+o dd = σται|-
+i = χρι
+p = στός|
+a, kk = ο|
+ae2 = θε
+o dd, a = ός|
+a ve 1, a ve = η
+i = μών|
+</musicalPiece>
+</typeOfXMLFile>

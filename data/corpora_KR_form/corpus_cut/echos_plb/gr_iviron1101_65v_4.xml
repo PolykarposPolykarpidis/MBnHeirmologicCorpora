@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_65v_4</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>65v</startingFolio>
+		<initium>χριστος μου δυναμις θεος και κυριος η σεπτη εκκλησια</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa, i, kk, o, o dd = a -
+i = χρι
+pi = στός|
+e dd, kkoo  = μου|
+oo = δύ
+a = να
+a = μις|-
+i = θε
+i = ός|
+o = και|
+p = κύ
+ae2, kk = ρι
+o dd = ος|
+i = η|
+i = σε
+ooi = πτή|
+a = εκ
+a = κλη
+po = σί
+a = α|
+p = θε
+ae2 = ο
+i = πρε
+i = πώς|-
+e v 1, kk v = μέλ
+ae2 = πει|
+ok3 = α
+i = να
+o = κρά
+o = ζου
+i = σα|-
+i = εκ|
+i = δι
+i = α
+ooi = νοί
+a = ας|
+a = κα
+o = θα
+o dd = ράς|-
+i = εν|
+i = κυ
+ooi = ρί
+a = ω|
+a = ε
+ok2 = ορ
+i kl ps, s, a = τά
+a, o g, o, p = ζου
+a ap = σα|
+</musicalPiece>
+</typeOfXMLFile>

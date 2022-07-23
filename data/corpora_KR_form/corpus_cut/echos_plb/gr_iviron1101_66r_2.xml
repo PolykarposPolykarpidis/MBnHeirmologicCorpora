@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_66r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>66r</startingFolio>
+		<initium>του βιου την θαλασσαν υψουμενην καθορων</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa, oo kl = F -
+ae2 = του|
+ok3 = βί
+i = ου|
+i = την|
+o = θά
+o = λασ
+i dd = σαν|-
+i = υ
+i = ψου
+ooi = μέ
+a = νην|
+a = κα
+o = θο
+oo = ρών|
+a = των|
+a = πει
+o = ρα
+p = σμών|
+a = τω|
+ook2 = κλύ
+a = δω
+a = νι|-
+i = τω|
+i = ευ
+p = δί
+a kl = ω|
+ae3, kk = λι
+ok2 dd = μέ
+i = νι|
+p = σου|
+ae2 = προσ
+i = δρα
+i dd = μών|-
+e v 1, kk v = βο
+ae2 = ώ|
+ok3 = σοι|
+i = α
+pkk = νά
+ae2, kk = γα
+o dd = γε|-
+i = εκ|
+i = φθο
+ooi = ράς|
+a = την|
+a, kk = ζω
+p = ήν|
+a om 1, ook2 om 1, a om 1, a om = μου| # διόρθωσα
+a = πο
+ok2 = λυ
+ooi kl, a = έ
+oo kl, s, p = λε
+a = ε|
+</musicalPiece>
+</typeOfXMLFile>
