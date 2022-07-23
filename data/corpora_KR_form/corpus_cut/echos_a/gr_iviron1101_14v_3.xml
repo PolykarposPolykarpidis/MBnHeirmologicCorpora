@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_14v_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>14v</startingFolio>
+		<initium>αυτη η κλητη και αγια ημερα</initium>
+		<mode>1</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa, ooh4 = a-
+i dd = αύ
+i om 1, ook2 om 1, a om 1, a om = τη|
+a = η|
+o = κλη
+o = τή|
+o = και|
+i = α
+p = γί
+a = α|
+a kl = η
+aa, kkoo = μέ
+i dd = ρα|-
+i = η|
+p = μί
+a = α|
+a kl = των|
+a = σαβ
+k v 1, a v = βά
+o ap = των|-
+i = η|
+i = βα
+i = σι
+p = λίς|
+a kl 1 di 1, a kl di = και|
+a = κυ
+k v 1, a v = ρί
+o dd = α|-
+i = ε
+p = ορ
+a om 1, oo om 1, a om 1, a om = τών|
+a = ε
+k v 1, a v = ορ
+o dd, p = τή|-
+ae2 = και|
+o = πα
+ook2 = νή
+a = γυ
+a = ρις|
+i = ε
+p = στί|
+a kl = πα
+a = νη
+oo = γύ
+a = ρε
+aa = ων|-
+i = ε
+i = νή|
+i = ευ
+po = λο
+a om 1, oo om 1, a om 1, a om = γού
+a kl = μεν|
+a = χρι
+o dd = στόν|
+o = εις|
+p = τους|
+ae2 = αι
+po = ώ
+a = νας|
+</musicalPiece>
+</typeOfXMLFile>
