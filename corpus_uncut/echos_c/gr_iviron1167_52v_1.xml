@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_52v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>52v</startingFolio>
+		<initium>ως ειδεν ησαϊας συμβολικως</initium>
+		<mode>3</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>d</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa, ook3 = d-
+i = ως|
+oo = εί
+a kl = δεν|
+ae2 = η
+o = σα
+o dd, oo g = ϊ
+i = ας|
+pi klr = συμ
+ae2 = βο
+o = λι
+o ap = κώς|-
+i = εν|
+i is g = θρό
+pi = νω|
+ae2 = ε
+i = πηρ
+oo = μέ
+a = νω|
+a kl = θε
+aa ap = όν|-
+echos_a aa = a-
+ok3 g = υ
+pi l 1 = παγ
+ae2 l = γέ
+o = λων|
+o dd, oo g = δό
+i ap = ξης|-
+i = δο
+i = ρυ
+i = φο
+p = ρού
+ae2 = με
+o ap = νον|-
+echos_a aa, ooh4 = e-
+pi anr = ω|
+ae2, oo anr 1, a anr, oo = τά
+o ap = λας|-
+i = ε
+po anr = βό
+ae2 = α|
+a = ε
+o ap = γώ|-
+echos_a aa, ooh4 = e-
+i is g = προ|
+i = γαρ|
+ooi psr = εί
+a klr = δον|
+a = σω
+ok2 = μα
+oo ps = τού
+ae2 = με
+a anr = νον|
+a kl = θε
+aa ap = όν|-
+echos_a aa = a-
+i = φω
+okh6 pht3 = τός|
+pi l 1 = α
+a l = νε
+p is g l 1= σπέ
+ae2 l = ρου|-
+i = και|
+i = ει
+i v 1 ll 1, e v ll = ρή
+o = νης|
+i g = δε
+oo ps = σπό
+s g, a = ζο
+o ap = ντα|
+</musicalPiece>
+</typeOfXMLFile>

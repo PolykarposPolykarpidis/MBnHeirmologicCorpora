@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_69v_1</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>69v</startingFolio>
+		<initium>ουκ ελατρευσαν την κτησει οι θεοφρονες</initium>
+		<mode>4</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>d</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_d aa, ooh4 = d -
+i = ουκ|
+i = έ
+i = λά
+a = τρευ
+ae2 ap = σαν|-
+o = τη|
+p = κτί
+a = σει|
+i = οι|
+ok2 = θε
+oo = ό
+a = φρο
+ae2 = νες|-
+ok2 = πα
+pi = ρά|
+ae3 = τον|
+okk = κτί
+pi, s = σα
+o dd = ντα|-
+echos_b aa, kkoo = b -
+ok2 = αλ
+pi = λά|
+ae3 = πυ
+okk = ρός|
+pi = α
+ae2 = πει
+o ap = λήν|-
+i = αν
+oh4 = δρεί
+pi = ως|
+a = πα
+pi = τή
+a = σα
+pi = ντες|-
+ae2 = χαί
+i = ρο
+ok2 = ντες|
+oo = έ
+a = ψαλ
+ae2 ap = λον|-
+echos_b aa = b -
+ok2 = υ
+i = πε
+pi = ρύ
+a = μνη
+ae2 ap = τε|-
+i = ο|
+ook2 = των|
+a = πα
+a = τέ
+a = ρων|
+ok2 = κύ
+o = ρι
+o ap = ος|-
+i = και|
+i = θε
+p = ός|
+a = ευ
+ae2 = λο
+p = γη
+ae2, po = τός|
+a ap = ει|
+</musicalPiece>
+</typeOfXMLFile>

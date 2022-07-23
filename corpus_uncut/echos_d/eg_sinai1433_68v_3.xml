@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_68v_3</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>68v</startingFolio>
+		<initium>τους σους υμνολογους θεοτοκε ως ζωσα και αφθορος πηγη</initium>
+		<mode>4</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>d</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_d aa, ooh4 = d -
+ae2 = τους|
+ok2 = σους|
+i = υ
+i = μνο
+p = λό
+a = γους|
+ae2 = θε
+p = ο
+ae2, kkoo = τό
+a ap = κε|-
+echos_b aa  = b-
+a = ως|
+i v 1, a v = ζώ #το διόρθωσα βλ μουτζουρωμένο ίσον ΕΒΕ 946 113v
+o = σα|
+ook2 = και|
+a = ά
+a = φθο
+ae2 = νος|
+o = πη
+o ap = γή|-
+a = θί
+o = α
+o = σον|
+p = συ
+a = γκρο
+ook2 = τή
+a = σα
+ae2 = ντας|-
+echos_a aa = a -
+o = πνευ
+i = μα
+p = τι
+ae2 = κόν|
+a = στε
+pk3 = ρέ
+i v 1, a v, pi, a = ω
+i ap = σον|-
+echos_a aa = a - # το διόρθωσα
+a = και|
+o = εν|
+o = τη|
+p = θεί
+a = α|
+po = δό
+a = ξη|
+o ap = σου|-
+po = στε
+ae2 = φά
+a = νων|
+p, a, a = δό
+aa = ξης|
+o = α
+p = ξί
+e v = ω
+o ap = σον|
+</musicalPiece>
+</typeOfXMLFile>
