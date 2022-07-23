@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_64v_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>64v</startingFolio>
+		<initium>τω σωτηρι θεω το εν θαλασση λαο</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pla aa = a -
+a = τω|
+o = σω
+o dd, p = τή
+a kl = ρι|
+a = θε
+i = ώ|-
+pi = τω|
+a = εν|
+o = θα
+o dd, kkoo = λάσ
+p = ση|
+a = λα
+o dd = όν|-
+a = πο
+p = σίν|
+ae2 = α
+po = βρό
+a dd = χοις|-
+pi = ο
+ae2 = δη
+oo = γή
+a = σα
+a = ντι|-
+oh4 = και|
+i = φα
+o = ρα
+p = ώ|
+ae2 = παν
+pi = στρα
+a = τι
+p = ά|
+a kl = κα
+ae2 = τα
+o = πο
+pk2, kk = ντί
+a v 1, a v = σα
+o dd = ντι|-
+i = αυ
+ooikk = τώ|
+a = μό
+a = νω|
+oo = ά
+a = σω
+a kl = μεν|-
+a = ό
+o = τι|
+o = δε
+o kr = δό
+a v 1, kk v 1, e v = ξα
+o ap = σται|
+</musicalPiece>
+</typeOfXMLFile>
