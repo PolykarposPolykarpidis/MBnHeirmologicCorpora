@@ -1,8 +1,8 @@
 # MBnHeirmologicCorpora
-# (Middle Byzantine Music Heirmologic Corpora)
+# (Middle Byzantine Music - Heirmologic Corpora)
 
 ## Description
-Three related corpora in Middle Byzantine music notation
+Three related Heirmologic corpora written in teh Middle Byzantine music notation.
 
 ## Forms
 The corpora are provided in three different ways:
