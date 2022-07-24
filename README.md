@@ -1,4 +1,5 @@
-# MBnHeirmologicCorpora (Middle Byzantine Music Heirmologic Corpora)
+# MBnHeirmologicCorpora
+# (Middle Byzantine Music Heirmologic Corpora)
 
 ## Description
 Three related corpora in Middle Byzantine music notation
