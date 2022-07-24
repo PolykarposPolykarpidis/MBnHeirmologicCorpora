@@ -10,7 +10,8 @@ The corpora are provided in three different ways:
 2. In a tabular mode which is a conversion result of the Knowledge Representation form (1).
 3. In a western staff notation lilypond.
 
-
+## Structure
+Data folder contains the corpora in three formats. etc...
 
 
 ## Licence
