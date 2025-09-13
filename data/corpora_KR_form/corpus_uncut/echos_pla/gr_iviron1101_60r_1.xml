@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_60r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>60r</startingFolio>
+		<initium>ο υπερυψουμενος των πατερων κυριος</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pla aa = a -
+i = ο|
+i = υ
+o = πε
+o = ρυ
+o = ψού
+i = με
+p = νος|
+ae2 kl = των|
+a = πα
+o = τέ
+o v 1 kl 1, ae3 v kl = ρων|
+o dd, oo kl = κύ
+e dd = ρι
+ok3 dd = ος|-
+i = την|
+i kl vv 1, e vv = φλό
+o = γα|
+o = κα
+p = τέ
+e v 1, a v = σβε
+a = σε|-
+ok2 = τους|
+pi = παί
+ae3 = δας|
+ok3, a = ε
+o dd, p = δρό
+a dd = σι
+i ap = σε|-
+a, kk = συμ
+pk2, kk = φώ
+a = νως|
+pi = με
+a = λω
+p = δού
+a dd = ντας|-
+pi = ο|
+a kl = θε
+a, kk = ός|
+o = ευ
+p = λο
+e v 1, a v = γη
+aa = τός|
+i = ει|
+</musicalPiece>
+</typeOfXMLFile>

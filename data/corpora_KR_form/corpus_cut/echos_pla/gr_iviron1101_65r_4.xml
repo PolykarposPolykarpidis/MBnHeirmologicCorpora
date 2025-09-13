@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_65r_4</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>65r</startingFolio>
+		<initium>ο εν καμινω πυρος τους υμνολογους σωσας παιδας</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pla aa = a -
+pi = ο|
+a = εν|
+o = κά
+o dd, p = μί
+a kl = νω|
+a = πυ
+i = ρός|-
+pi = τους|
+a = υ
+o = μνο
+o dd, kkoo = λό
+i = γους|
+p = σώ
+a = σας|
+oo = παί
+a = δας|-
+a kl = ευ
+a = λο
+o = γη
+ok2 kr = τός|
+a = ο|
+p = θε
+ae2 kl = ός|
+a = ο|
+o = των|
+o = πά
+o kr = τε
+a kl = ρων|
+a = η
+o ap = μών|
+</musicalPiece>
+</typeOfXMLFile>

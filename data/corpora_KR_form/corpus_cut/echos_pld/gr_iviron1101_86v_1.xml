@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_86v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>86v</startingFolio>
+		<initium>εκνοον προσταγμα τυραννου δυσσεβους λαους εκλονησε</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld i dd = G -
+ok2 kr = έ
+ae2 = κνο
+o = ον|
+oo = πρό
+a = σταγ
+a = μα|
+o = τυ
+oo = ράν
+a = νου|
+a = δυσ
+o = σε
+i = βούς|
+p = λα
+ae2 = ούς|
+o kl 1 v 1, a kl v = ε
+aa, ookk = κλό
+a dd, kkoo = νη
+i dd = σε|-
+ook2 = πνέ
+a = ον|
+a = α
+i = πει
+kkoo z = λής|
+ae2 = καί|
+pikk = δυ
+a kl 1 di 1, a kl di = σφη
+aa, kkoo = μί
+ooi, kk = ας|
+ae2 = θε
+a = ο
+i = στυ
+i dd = γούς|-
+ok3 = ό
+p = μως|
+ae2 = τρεις|
+o dd, ookk = παί
+a = δας|
+i = ουκ|
+ooi = ε
+a = δει
+a = μά
+a = τω
+a = σε|-
+i = θυ
+ok2 = μός|
+i = θη
+i = ρι
+po = ώ
+ae2 = δης|
+o = ου|
+o dd = πύρ|
+ooi = βρό
+a = μι
+a = ον|-
+a = αλ|
+aa = λα
+o = ντη
+pkk = χού
+a dd = ντι|
+i = δρο
+pikk = σο
+ae2 kl = βό
+a, kk = λω|
+o dd, oo kl = πνεύ
+e dd = μα
+i dd = τι|-
+ok3 = πυ
+pi = ρί|
+ac4 = συ
+o = νό
+o = ντες|
+oo = έ
+a = ψαλ
+a = λον|-
+ok2 = ο|
+i = υ
+p = πε
+e xkl 1, oo xkl kl = ρύ
+e dd, ookk, a = μνη
+o dd, p = τος|-
+ae2 = τών|
+o = πα
+o kl = τέ
+ae2 = ρων|
+i = καί| # δεν υπάρχει αυτή η συλλαβή. εγώ την πρόσθεσα με ίσον
+i = η
+pikk = μών|
+a kl 1 di 1, a kl di = θε
+a = ός|
+ok2 = ευ
+pikk = λο
+a kl 1 di 1, a kl di = γη
+aa = τός|
+i = εί|
+</musicalPiece>
+</typeOfXMLFile>

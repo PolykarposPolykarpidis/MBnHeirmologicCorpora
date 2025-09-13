@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_75r_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>75r</startingFolio>
+		<initium>μη της φθορας διαπειρα κυοφορησασα και παντεχνημονι λόγω σαρκα δανεισασα</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+pi = μη|
+a = της|
+o = φθο
+ok2 = ράς|
+i = δι
+i = α|
+po = πεί
+a kl 1 di 1, a kl di = ρα|
+a = κυ
+o = ο
+i = φο
+oo = ρή
+a = σα
+a = σα|-
+pi = και|
+ae2 = πα
+o = ντε
+o = χνή
+o = μο
+i = νι|
+po = λό
+a kl 1 di 1, a kl di = γω|
+a = σάρ
+o = κα|
+i = δα
+oo = νεί
+a = σα
+aa = σα|-
+ok3 dd, p = μή
+a kl = τερ|
+a = α
+oo = πεί
+a = ραν
+aa = δρε|-
+i dd  = παρ
+i = θέ
+oo = νε|
+a = θε
+a = ο
+o kr = τό #μάλλον
+a = κε|-
+oo = δο
+a = χεί
+a kl = ον|
+a = του|
+o = α
+o dd, p = στέ
+a = κτου|-
+oo = χω
+a = ρί
+a kl = ον|
+a = του|
+o = α
+o dd, oo = πεί
+i dd = ρου|
+i = πλα
+i = στουρ
+i = γού|
+po = σου|
+a kl vv 1, e vv = σε|
+okk = με
+o kl 1 v 1, ae3 kl v = γα
+o dd = λύ
+a ve 1, a ve = νο
+i = μεν|
+</musicalPiece>
+</typeOfXMLFile>

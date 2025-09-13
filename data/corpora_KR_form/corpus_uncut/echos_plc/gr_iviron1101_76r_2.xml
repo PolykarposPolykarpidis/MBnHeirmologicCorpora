@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_76r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>76r</startingFolio>
+		<initium>οι εν καμινω του πυρος εμβληθεντες οσιοι παιδες</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+pi = οι|
+a = εν|
+o = κα
+ok2 = μί
+i = νω|
+i = του|
+i = πυ
+i dd = ρός|-
+i = εμ
+i = βλη
+ok2 xkl 1, a xkl kl = θέ
+a = ντες|
+oo = ό
+a = σι
+a = οι|
+o dd, kkoo = παί
+i = δες|-
+i = το|
+pi = πύρ|
+a = εις|
+o dd, p = δρό
+a kl = σον|
+a = με
+oo = τέ
+a = βα
+a = λον|-
+i = δι
+i = ά|
+i = της|
+i = υ
+i = μνω
+ok2 xkl 1, a xkl kl = δί
+a = ας|
+oo = ού
+a = τω|
+a = βο
+o dd, kkoo = ώ
+i = ντες|-
+i = ευ
+i = λο
+i = γη
+pi = τός|
+a = ει|
+oo = κύ
+a = ρι
+aa = ε|-
+i = ο|
+i = θε
+okk vv 1, ae3 vv = ός|
+okk = των|
+o v 1 kl 1, ae3 v kl = πα
+o dd = τέ
+a = ρων|
+a = η
+i = μών|
+</musicalPiece>
+</typeOfXMLFile>

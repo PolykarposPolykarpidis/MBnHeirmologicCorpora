@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_40r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>40r</startingFolio>
+		<initium>το φως το ανεπεσπερον χριστε καταυγασον</initium>
+		<mode>3</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_c o, o, o dd = a-
+i = το|
+ok2 = φως|
+p = σου|
+ae2 = το|
+o = α
+p = νέ
+a kl 1, a = σπε
+a = ρον|
+k v 1, a v = χρι
+o ap = στέ|-
+i = κα
+p = ταύ
+ae2, kk = γα
+ok2 kr = σον|
+a = ο|
+a = θε
+p = ός|
+a = τη|
+p = τα
+a kl 1, a kl = πει
+aa, oo kl = νή|
+ae2 = μου|
+pk2, kk = ψυ
+e dd = χή|-
+o = και|
+o = ο
+o = δή
+i = γη
+i = σον|
+pi = εις|
+ae2 = τον|
+oo = φό
+a = βον|
+a = σου|-
+i = δι
+o = ό
+o = τι|
+o dd, oo kl = φως|
+ae2 = τα|
+ok2 = προ
+ooi = στάγ
+a = μα
+a v 1, kk v 1, e v = τά|
+o ap = σου|
+</musicalPiece>
+</typeOfXMLFile>

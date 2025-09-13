@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_66r_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>66r</startingFolio>
+		<initium>δροσοβολον μεν την καμινον ειργασατο αγγελος</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa, oo kl = F -
+ae2 = δρο
+ok3 = σο
+o = βο
+o = λον|
+i = μεν|
+i = την|
+ooi = κά
+a = μι
+a = νον|
+o = ειρ
+o = γά
+i = σα
+i dd = το|-
+po = άγ
+ae3 = γε
+p = λος|
+a kl = τοις|
+a = ο
+o dd, p = σί
+ae2 = οις|
+o = παι
+o dd = σί|-
+i = τους|
+i = χαλ
+ook2 = δαί
+a = ους|
+aa = δε|-
+i = κα
+i = τα
+pi = φλέ
+a = γον|
+oo = πρό
+a = σταγ
+a = μα|
+o = θε
+o ap = ού|-
+i = τον|
+i kr = τύ
+a kl = ραν
+ae2 = νον|
+ok2 = έ
+p = πει
+ae2 = σε|
+o = βο
+o ap = άν|-
+i = ευ
+i = λο
+i = γη
+ooi = τός|
+a = ει|
+a = ο|
+o = θε
+i = ός|
+p = ο|
+ae2 = των|
+ok2 = πα
+i ps kl, s, a = τέ
+a = ρων|
+pk2, kk = η
+a = μών|
+</musicalPiece>
+</typeOfXMLFile>

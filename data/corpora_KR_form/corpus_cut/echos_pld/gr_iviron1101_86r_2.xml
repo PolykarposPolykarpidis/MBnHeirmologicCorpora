@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_86r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>86r</startingFolio>
+		<initium>ω τρισμακαριστον ξυλο ενω εταθη χριστος ο βασιλευς</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld i dd = G -
+oo kl = ω|
+ae3, kk = τρι
+o = σμα
+pk3 = κά
+a kl = ρι
+a = στον|
+o kl 1 v 1, a kl v = ξύ
+a = λον|
+i = εν|
+ok2 = ώ|
+o = ε
+o kr = τά
+a = θη|
+a = χρι
+a = στός|
+p = ο|
+a kl = βα
+a = σι
+ok3 = λεύς|
+i = καί|
+p = κύ
+a v 1, a v = ρι
+o dd, p = ος|-
+ae2 = δι|
+o = ού|
+ook2 = πέ
+a = πτω
+a = κεν|
+i = ο|
+p = ξύ
+a = λω|
+pi = α
+ae2 = πα
+k v 1, a v = τή
+o dd, p = σας|-
+ae2 = τώ|
+o = εν|
+p = σοί|
+a kl 1 di 1, a kl di = δε
+a = λε
+okk = α
+o ap = σθείς|-
+i = θε
+pi = ώ|
+ac4 = τω|
+o = προ
+k v 1, a v = σπα
+o dd, a = γέ
+a = ντι|
+a = σαρ
+i dd = κί|-
+i = τώ|
+ok2, kk = πα
+po = ρέ
+a v 1, a v = χο
+o dd = ντι|-
+i = τήν|
+i = ει
+ooi = ρή
+a = νην|
+a = ταίς|
+o = ψυ
+p = χαίς|
+ae3 = η
+o ap = μών|-
+</musicalPiece>
+</typeOfXMLFile>

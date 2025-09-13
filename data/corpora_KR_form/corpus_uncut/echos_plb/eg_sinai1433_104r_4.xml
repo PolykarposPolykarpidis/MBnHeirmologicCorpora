@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_104r_4</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>104r</startingFolio>
+		<initium>ως εν ηπειρω πεζευσας ο ισραηλ</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa = G - #pl b δίφωνος
+i = ως|
+i = εν|
+o = η
+oo = πεί
+a = ρω|
+a = πε
+o = ζεύ
+i ap = σας|-
+p = ο|
+ae2 = ισ
+o = ρα
+o ap = ήλ|-
+i = εν|
+o = α
+p = βύσ
+a = σω|
+oo = ί
+a = χνε
+a ap = σι|-
+pi = τον|
+ae2 = δι
+o = ώ
+o = κτην|
+ooi = φα
+a = ρα
+a ap = ώ|-
+i = κα
+i = θο
+o = ρών|
+i = πο
+o = ντού
+pi = με
+ae2 = νον|
+o = θε
+o ap = ώ|-
+a = ε
+o = πι
+p = νί
+a = κι
+i = ον|
+i = ω
+pi = δήν|-
+ae2 = ε
+o = βό
+o = α|
+oo = ά
+a = σω
+ae2 ap= μεν|
+</musicalPiece>
+</typeOfXMLFile>

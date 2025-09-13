@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_51r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>51r</startingFolio>
+		<initium>συμφωνον εθροησεν οργανων μελος σεβειν το χρυσον</initium>
+		<mode>4</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>d</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_d aa, oo4 = d -
+ac4 = σύμ
+oh4 = φω
+i = νον|
+i = ε
+oo = θρό
+a = η
+a = σεν|
+o = ορ
+o dd, oo kl = γά
+ae2 = νων|
+o = μέ
+i dd = λος|-
+ook2 = σέ
+a = βειν|
+a = τό|
+i = χρυ
+ook2 = σό
+a = τευ
+a = κτον|
+oo = ά
+a = ψυ
+a kl = χον|
+aa, oo = βρέ
+i dd = τας|-
+ac4 = η|
+oh4 = τοί|
+i = πα
+i = ρα
+oo = κλή
+a = του|
+a = δέ|
+o = φω
+o dd, oo kl = σφό
+ae2 = ρος|
+o = χά
+i = ρις|-
+i = σε
+i = βα
+i = σμι
+ook2 = ά
+a = ζει|
+a = του|
+i = βο
+p = άν|
+a = τρι
+a kl = άς|
+aa, oo = μό
+i = νη|-
+pi = ι
+a = σο
+okk = σθε
+o dd vv 1, a v= νής|
+p = ά
+a di 1 kl 1, a di kl = ναρ
+a = χος|
+o = ευ
+ook2 = λο # διόρθωσα βλ Σινά 1256 92v
+a = γη # διόρθωσα βλ Σινά 1256 92v
+aa = τός| # διόρθωσα βλ Σινά 1256 92v
+i ap = εί|
+</musicalPiece>
+</typeOfXMLFile>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_74v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>74v</startingFolio>
+		<initium>νυξ αφεγγης τοις απιστοις χριστε τοις δε πιστοις φωτισμος</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+pi = νυξ|
+a = α
+o = φεγ
+po = γής|
+a kl = τοις|
+ae2 = α
+o kl 1 v 1, a kl v = πί
+a = στοις|
+k v 1, a v = χρι
+o ap = στέ|-
+ae2 = τοις|
+o = δε|
+o = πι
+o dd, oo = στοις|
+i = φω
+i = τι
+i = σμός|-
+po = εν|
+a kl 1 di 1, a kl di = τη|
+a = τρυ
+o = φή|
+i = των|
+oo = λό
+a = γων|
+aa, po = σου|-
+e om 1, oo om 1, a om 1, a om = και|
+a = δι
+o = ά|
+o dd, oo = τού
+i dd = το|-
+i = προς|
+po = σε|
+a = ορ
+oo = θρί
+a = ζω|
+a = και|
+i = α
+po = νυ
+a kl 1 di 1, a kl di = μνώ|
+a = σου|
+okk = την|
+o v 1 kl 1, ae3 v kl = θε
+o dd = ό
+a ve 1, a ve = τη
+i = τα|
+</musicalPiece>
+</typeOfXMLFile>

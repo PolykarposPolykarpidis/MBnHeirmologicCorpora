@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_103v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>103v</startingFolio>
+		<initium>μη της φθορας διαπειρα κυοφορησασα και παντεχνημονι λόγω σαρκα δανεισασα</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i = μη|
+pi = της|
+a is g = φθο
+o dd, oo g = ράς|-
+i = δι
+i = α|
+p anr = πεί
+a = ρα|
+i = κυ
+i g = ο
+i = φο
+oo psr = ρή
+a klr = σα
+aa = σα|-
+echos_varys o dd = F -
+i = και|
+i = πα
+i = ντε
+po l 1 = χνή
+a l = μο
+i ap = νι|-
+echos_d aa, ooh4 = G -
+pi anr 1= λό
+a v 1 anr 1 klr 1, a v anr klr = γω|
+o dd, oo g = σάρ
+i = κα|
+i = δα
+oo psr = νεί
+a klr = σα
+aa = σα|-
+po anr = μή
+a = τερ|
+a v 1 klr 1, a v klr = α
+oo psr = πεί
+a klr = ραν
+aa = δρε|-
+i = παρ
+ok2 = θέ
+pi = νε|
+e v psr = θε
+a = ο
+o dd, kkoo l 1 g = τό
+i l ap = κε|-
+i = δο
+po klr = χεί
+a = ον|
+pi anr = του|
+a v 1 klr 1, a v klr = α
+o xkl 1 trr 1, oo xkl 1 trr 1 g, a xkl 1 trr 1, a xkl trr = στέ
+a = κτου|-
+i = χω
+ok2 = ρί
+pi l 1 = ον|
+ae2 l = του|
+a = α
+o dd, kkoo l 1 g = πεί
+i l ap = ρου|-
+echos_c i, i = F -
+a is g = πλα
+o = στουρ
+o = γού|
+i = σου|
+pi klr = σε|
+a anr 1 = με
+a anr kl, a = γα
+kkoo z 1 = λύ
+ae2 z, kk g = νο
+o ap = μεν|
+</musicalPiece>
+</typeOfXMLFile>

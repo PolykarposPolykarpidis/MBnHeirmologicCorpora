@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_8v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>8v</startingFolio>
+		<initium>νεουργε του συμπαντος κοσμου και σωστα</initium>
+		<mode>1</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Anonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa, ooh4 = a-
+i = νε
+i = ουρ
+pkk = γέ|
+ae3 = του|
+p = σύ
+a = μπα
+i = ντος|
+pk3 = κό
+ae3, kk = σμου|
+k v 1, a v = και|
+aa = σώ
+i ap = στα|-
+ae3, kk = υ
+ok2 kr = μνεί|
+a = σε|
+p = πά
+ae3 xkl 1, oo xkl kl = σα|
+ae3 = με
+o = ταγ
+o dd, ookk = γέ
+p = λων|
+e v 1, a v = η|
+aa = κτί
+i dd = σις|-
+echos_a aa, ooh4 = D-
+oh4 = σκιρ
+i = τά|
+i = χο
+ok2 kr, a, a kl, aa = ρεύ
+i dd, o dd, ook2, a, aa= ει|-
+a kl = και|
+ae2, kk = α
+o dd, oo = γάλ
+ook2 = λε
+a = ται|
+aa = τρό
+i dd, ookk, a g, o dd= μω|-
+e v 1, kk v = ευ
+ae2 = λο
+ok3 = γεί
+i = τε|
+ok2 = λέ
+i = γου
+i = σα|
+pi = πά
+a = ντα|
+o v 1 kl 1, a v kl = τα|
+aa = έρ
+a xkl 1, kk xkl 1, i kl 1, a kl = γα|
+a = τα|
+i = σε
+pk3 = πτά|
+ae2 = γε
+oo = νέ
+a = θλι
+a = α|-
+k v 1, a v = του|
+p = λυ
+e v 1, a v = τρω
+aa = τού|
+i dd, oo kl = μου|
+ae2 = συν|
+o = ε
+ok2 kr = μοί|-
+a kl = εις|
+ae2, kk = αι
+o dd, p = ώ
+a = νας|
+ok3 = πό
+pi = θω|
+a kl 1 di 1, a kl di = υ
+a = πε
+ok3 v 1, a v = ρυ
+aa= ψού
+i = ντα|
+</musicalPiece>
+</typeOfXMLFile>

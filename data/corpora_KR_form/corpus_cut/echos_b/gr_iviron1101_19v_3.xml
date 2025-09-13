@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+
+		<nameFile>gr_iviron1101_19v_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		<!--musicPiece-->
+		<startingFolio>19v</startingFolio>
+		<initium>αντιθεον προσταγμα παρανομουντος τυραννου μεταρσιον</initium>
+		<mode>2</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>b</startingPitch>
+		<composer>Anonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa, kkoo = b-
+ok2 = α
+o kr = ντί
+a = θε
+i = ον|
+ooi = πρό
+a = σταγ
+a kl = μα|
+a = πα
+o = ρα
+o = νο
+o dd, oo = μού
+i dd = ντος|-
+i = τυ
+oo = ράν
+a = νου|
+a = με
+p = τάρ
+a = σι
+i = ον|-
+i = την|
+p = φλό
+ae2 = γα|
+o = α
+i = νερ
+ooi = ρί
+a = πι
+aa, kkoo = σε|-
+i = χρι
+p = στός|
+ae2 = δε|
+o = ε
+ooi = φή
+a = πλω
+a = σε|-
+ok2 = θε
+i = ο
+i = σε
+o kr = βέ
+a kl = σι|
+ae2, kk = παι
+o dd = σί|-
+ooi = δρό
+a = σον|
+a kl = την|
+a = του|
+oo = πνεύ
+a = μα
+a = τος|-
+p = ο|
+o dd, kkoo = ων|
+i = ευ
+i = λο
+i = γη
+o kl 1 v 1, a kl v, p = μέ
+e v 1, a v = νος|
+a = και|
+okk = υ
+o = πε
+ooi = ρέν
+a = δο
+a = ξος|
+</musicalPiece>
+</typeOfXMLFile>

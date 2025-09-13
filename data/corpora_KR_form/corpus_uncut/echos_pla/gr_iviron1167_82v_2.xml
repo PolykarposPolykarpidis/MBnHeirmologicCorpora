@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_82v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>82v</startingFolio>
+		<initium>ο αναβαλλόμενος φως ως ιματιον</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa = a -  # βλ Ιβήρων 1154 φ 79v
+ok2 = ο|
+i = α
+pi anr = να
+a = βαλ
+oo psr = λό
+a klr = με
+aa = νος|-
+ok2 = φως|
+pi anr = ως|
+a = ι
+oo psr = μά
+a klr = τι
+aa = ον|-
+a is g = προς|
+p anr = σε|
+a = ορ
+ok2 is g = θρί
+pi anr 1 = ζω|
+ae2 anr = και|
+p klr = σοι|
+a g is = κραυ
+o g = γά
+i ap = ζω|-
+i = την|
+o = ψυ
+o = χήν|
+i ap = μου|-
+p l 1 = φώ
+a l = τι
+i ap = σον|-
+i = την|
+i = ε
+pi is g l 1 = σκο
+a l 1 = τι
+pi l , a g = σμέ
+i ap = νην|-
+a is g = χρι
+o = στέ|
+pi l 1 = ως|
+ae2 l = μό
+o = νος|
+okk g = εύ
+pi is g l 1 = σπλαγ
+aa l ap = χνος|
+</musicalPiece>
+</typeOfXMLFile>

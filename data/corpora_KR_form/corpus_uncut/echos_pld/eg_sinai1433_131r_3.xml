@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_131r_3</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>balageorgos - flora 2021:74-78</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>131r</startingFolio>
+		<initium>νοτιου θηρος εν σπλαχνοις</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_pld i dd = G -
+i = νο
+ok3 = τί
+i = ου|
+i = θη
+pi = ρός|
+ae2 = εν|
+ook2, a, a = σπλά
+aa = χνοις|-
+i = πα
+oh4 = λά
+pi = μας|
+ae2 = ι
+o = ω
+o ap = νάς|-
+ae2 = σταυ
+i = ρο
+i, oo, a, a = ει
+aa, kkoo = δώς|
+o = δι
+p = εκ
+a v 1, a v = πε
+i v 1, a v, pi, a = τά
+i ap = σας|-
+ok2 = το|
+o = σω
+o = τή
+pi = ρι
+a = ον|
+p = πά
+ae2 = θος|-
+p = προ
+e v 1, kk v 1, s v = δι
+o = ε
+o dd = τύ
+po, a = που|
+a v 1, a v = σα
+i v 1, a v = φώς|-
+i = ό
+ok2 = θεν|
+o = τρι
+o = ή
+pi = με
+ae2 = ρος|
+o = εκ
+o ap = δύς|-
+i = τήν|
+o = υ
+o = περ
+p = κό
+a = σμι
+ae2 = ον|
+a = α
+oo = νά
+a = στα
+a ap = σιν|-
+p = υ
+e v 1, kk v 1, s v = πε
+o = ζω
+o, po, a = γρά
+a v 1, a v, i v 1, a v = φι
+i dd = σε|-
+ok2 = τού|
+o = σαρ
+p = κί|
+ae2 = προ
+o = σπα
+o, oo, a, a = γέ
+o ap = ντος|-
+i = χρι
+o dd, po, a = στού|
+i v 1, a v = τού|
+i v 1, a v = θε
+i dd = ού|-
+i = καί|
+i = τρι
+i v 1, a v = η
+o, po = μέ
+po = ρω|
+a = ε
+o, oo, a, a = γέρ
+aa = σει|-
+i = τόν|
+i, a = κό
+a = σμον|
+a = φω
+o dd, po, a = τί
+a v 1, a v = σα
+i ap = ντος|
+</musicalPiece>
+</typeOfXMLFile>

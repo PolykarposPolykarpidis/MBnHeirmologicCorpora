@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_82v_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>82v</startingFolio>
+		<initium>μαινομενην κλυδωνι ψυχοφθορω δεσποτα</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa = a -
+i = μαι
+o = νο
+p anr = μέ
+a = νην|
+oo psr = κλύ
+a klr = δω
+aa = νι|-
+p = ψυ
+ae2 = χο
+o is g = φθό
+i ap = ρω|-
+oo psr = δέ
+a klr 1 = σπο
+ae2 klr = τα|
+o is g = χρι
+o ap = στέ|-
+i = των|
+i = πα
+ok2 g = θών|
+i = την|
+p klr = θά
+a = λασ
+pi anr is g = σαν|
+a = κα
+oo psr = τεύ
+a klr = να
+aa = σον|-
+pi klr = και|
+ae2 = εκ|
+o = φθο
+o ap = ράς|-
+a = α
+p l 1 = νά
+a l 1 g = γα
+p l = γέ|
+ae2 = με|
+o = ως|
+okk l 1 = εύ
+pi l 1 is g = σπλαγ
+a ap = χνος|
+</musicalPiece>
+</typeOfXMLFile>

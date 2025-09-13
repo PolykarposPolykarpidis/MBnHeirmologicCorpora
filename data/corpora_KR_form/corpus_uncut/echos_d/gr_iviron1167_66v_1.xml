@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_66v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>66v</startingFolio>
+		<initium>ανοιξω το στομα μου και πληρωθησεται πνευματος</initium>
+		<mode>4</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>b</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa, kkoo = b -
+i = α
+ok2 = νοί
+i = ξω|
+i = το|
+ooi g psr = στό
+a kl = μα|
+ae2 = μου|-
+o = και|
+p anr = πλη
+a = ρω
+ooh4 psr = θή
+a klr 1 = σε
+aa klr = ται|-
+ooi psr = πνεύ
+a = μα
+aa = τος|-
+i = και|
+ok2 = λό
+i = γον|
+i = ε
+ookk psr = ρεύ
+a v 1 anr 1, a v  anr 1= ξο
+pi anr = μαι|-
+ae2, a = τη|
+o = βα
+o = σι
+o v 1 klr 1 v 1, s v klr v 1, p v = λί
+ae2 = δι|
+i = μη
+o is g ap = τρί|-
+i = και|
+i = ο
+ooh4 psr = φθή
+a = σο
+aa = μαι|-
+ae3 = φαι
+i v 1 anr 1 g, a v anr= δρώς|
+o = πα
+po anr = νη
+a = γυ
+oo kl para_ 1 vv 1= ρί
+ae2 para_ vv = ζων|-
+i = και|
+ok3 = ά
+i = σω|
+i = γη
+ooi psr = θό
+a klr 1 = με
+ae2 klr = νος|-
+o = ταύ
+i = της|
+o = τα|
+oo psr = θαύ
+a klr = μα
+aa = τα|
+</musicalPiece>
+</typeOfXMLFile>

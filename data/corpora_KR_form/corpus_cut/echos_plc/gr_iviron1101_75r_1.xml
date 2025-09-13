@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_75r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>75r</startingFolio>
+		<initium>καμινον παιδες πυριφλεκτον παλαι δροσοβολουσαν υπεδειξαν</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd, oo = G - #διορθώθηκε
+i xkl 1, a xkl kl = κά
+a = μι
+o = νον|
+o dd, oo = παί
+i dd = δες|
+i = πυ
+oo = ρί
+a = φλε
+a = κτον|
+o dd, kkoo = πά
+i = λαι|-
+i = δρο
+pi = σο
+a = βο
+o dd, p = λού
+a kl = σαν|
+a = υ
+oo = πέ
+a = δει
+a = ξαν|-
+i = έ
+i = να|
+i = θε
+ok2 xkl 1, a xkl kl = όν|
+a = α
+po = νυ
+a kl vv 1, e vv = μνού
+o = ντες|
+i = και|
+oo = λέ
+a = γο
+aa = ντες|-
+ooi = ο|
+a = υ
+a = πε
+o = ρυ
+o = ψού
+o = με
+i dd = νος|
+i = των|
+i = πα
+ok2 xkl 1, a xkl kl = τέ
+a = ρων|
+po = θε
+a kl 1 di 1, a kl di = ός|
+a = και|
+o = υ
+i = πε
+i kr = ρέν	#=====
+e v 1, kk v 1, e v = δο
+o ap = ξος|
+</musicalPiece>
+</typeOfXMLFile>

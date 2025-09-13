@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_38v_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>38v</startingFolio>
+		<initium>το στερεωμα των επι σοι πεποιθοτων</initium>
+		<mode>3</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>c</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_c i dd, kkoo = c-
+i = το|
+p = στε
+a om 1, oo om 1, a om 1, a om = ρέ
+aa, kkoo = ω
+a kl = μα|
+a = των|
+o = ε
+o = πί|
+o = σοι|
+i = πε
+i = ποι
+o = θό
+i = των|-
+i = στε
+ook2 = ρέ
+a = ω
+aa = σον|-
+pikk = κύ
+a kl 1 di 1, a kl di = ρι
+a = ε|
+ok2 = την|
+ooi = εκ
+a = κλη
+a v 1, kk v 1, e v = σί
+o dd, p = αν|-
+ae2 = ην|
+o = ε
+ook2 = κτή
+a = σω|
+a = τω|
+i = τι
+o vv 1 kl, a vv = μί
+p = ω|
+a kl 1 di 1, a kl di = σου|
+aa, kkoo = αί
+i v 1, kk v 1, e v = μα
+o ap = τι|
+</musicalPiece>
+</typeOfXMLFile>

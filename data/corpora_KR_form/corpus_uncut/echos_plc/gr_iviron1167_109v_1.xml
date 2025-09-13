@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_109v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>109v</startingFolio>
+		<initium>οι εν καμινω του πυρος εμβληθεντες οσιοι παιδες</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i = οι|
+i = εν|
+i = κα
+po psr = μί
+a = νω|
+i v 1 klr 1 l 1, s v klr l 1, p l = του|
+ae2 = πυ
+oo psr = ρός|
+a = εμ
+a is g = βλη
+o dd, kkoo l 1 g = θέ
+i l = ντες|-
+p anr 1 = ό
+ae3 anr = σι
+a = οι|
+o dd, kkoo l 1 g = παί
+i l ap = δες|-
+i = το|
+pi anr = πύρ|
+a = εις|
+o dd is g, oo g = δρό
+i = σον|
+i = με
+oo psr = τέ
+a klr = βα
+aa = λον|-
+i = δι
+po klr = ά|
+a = της|
+pi anr = υ
+a v 1 klr 1, a v klr = μνω
+p = δί
+ae2 = ας|
+oo psr = ού
+a klr 1 = τω|
+a klr = βο
+o dd, kkoo l 1 g = ώ
+i l ap = ντες|-
+echos_c i, i = F -
+ae2 = ευ
+o = λο
+o = γη
+o = τός|
+o g = ει|
+oo psr = κύ
+a klr = ρι
+aa = ε|-
+i = ο|
+i = θε
+ooi psr = ός|
+a = ο|
+a klr anr 1= των|
+a anr = πα
+kko z = τέ
+ae2 = ρων|
+o g = η
+o ap = μών|
+</musicalPiece>
+</typeOfXMLFile>

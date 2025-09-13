@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+
+		<nameFile>gr_iviron1167_2v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		<!--musicPiece-->
+		<startingFolio>2v</startingFolio>
+		<initium>εν καμινω παιδες ισραηλ</initium>
+		<mode>1</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa = a -
+i = εν |
+i = κα
+i = μί
+o = νω |
+p = παί
+ae2 = δες |
+o = ισ
+o is g = ρα
+o ap = ήλ |-
+a = ως |
+o = εν |
+o = χω
+pi klr = νευ
+a l 1 = τη
+p l = ρί
+a ap = ω |-
+echos_d aa, ooh4 = d -
+a = τώ |
+ok2 = κάλ
+i is g = λει |
+i = της |
+i = ευ
+i = σε
+oo psr = βεί
+a kl 1 = ας |
+ae2 kl = κα
+o = θα
+p = ρώ
+a = τε
+i v 1, a v = ρον |
+i v 1 is g, a v = χρυ
+ok2 ap = σού |-
+echos_d aa, ooh4 = d -
+i = α
+ook3 psr = πέ
+a kl = στιλ
+ae2 = βον |
+ooi psr = λέ
+a kl = γο
+ae2 = ντες |
+o = ευ
+o g = λο
+o = γεί
+i ap = τε |-
+ookk psr = πά
+a = ντα |
+a = τα |
+i = έρ
+pi anr = γα |
+a v 1 klr 1, a v klr = τον |
+o = κύ
+o = ρι
+oo psr = ον |
+a = υ
+aa, oo g = μνεί
+i ap = τε |-
+ae3 = και |
+i = υ
+o = πε
+o = ρυ
+pkk z g, a = ψού # έχω διορθώσει τις συλλαβές
+i v 1 g, a v = τε |
+pi l 1 = εις |
+a l = πά
+ok2 = ντας |
+ooi psr = τους |
+a = αι
+a kl = ώ
+aa = νας |
+</musicalPiece>
+</typeOfXMLFile>

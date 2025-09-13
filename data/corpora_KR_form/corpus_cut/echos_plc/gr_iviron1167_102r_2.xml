@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_102r_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>102r</startingFolio>
+		<initium>ο πατρικους κολπους μη λιπων και καταβας επι της γης</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i = ο|
+i = πα
+i v 1 is g anr 1, a v anr = τρι
+o dd, oo g = κούς|
+p l 1 = κόλ
+a l = πους|
+i = μή|
+i = λι
+i ap = πών|-
+i = και|
+i = κα
+i = τα
+p = βάς|
+a kl = ε
+ae3 = πί|
+a v 1 klr 1, a v klr = της|
+ok2 ap = γής|-
+i is g = χρι
+po = στέ|
+ae2 = ο|
+o g = θε
+o ap = ός|-
+echos_c i, i = F -
+i = το|
+i g = μυ
+ok2 = στή
+i = ρι
+i = ον|
+i = α
+oo psr = κή
+a klr = κο
+a = α|
+i = της|
+i klr = οι
+i g = κο
+i = νο
+oo psr = μί
+a klr 1 = ας|
+aa klr = σου|-
+o = και|
+pi klr = ε
+ae2 = δό
+ok2 = ξα
+ooi psr = σά|
+a = σε|
+a anr kl, a = Φι
+po = λάν
+ae2, kk g = θρω
+o ap = πε|
+</musicalPiece>
+</typeOfXMLFile>

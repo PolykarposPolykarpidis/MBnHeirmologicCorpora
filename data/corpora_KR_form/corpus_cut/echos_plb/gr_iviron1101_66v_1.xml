@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_66v_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>66v</startingFolio>
+		<initium>εκ φλογος τοις οσίοις δροσον υπεδειξας και θυσιαν</initium>
+		<mode>6</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_plb aa, kkoo = G -
+ok2 = εκ|
+i = φλο
+ooi = γός|
+a = τοις|
+a = ο
+po = σί
+a = οις|
+oo = δρό
+a = σον|
+a = υ
+pkk = πέ
+ae2, kk = δει
+o dd = ξας|-
+i = και|
+i = θυ
+ooi = σί
+a = αν|
+a = δι
+po = και
+a = ου|
+ookk = ύ
+a = δα
+a = τι|
+p = έ
+ae2 = φλε
+o kr = ξας|-
+a, kk = ά
+a kl 1 di 1, a kl di = πα
+a, kk = ντα|
+o = γαρ|
+ok2 ap = δρας|-
+i = χρι
+i = στέ|
+ooi, kk = μό
+a = νω|
+a = τω|
+p = βού
+ae2 = λε
+o kr = σθαι|-
+a, kk = σέ|
+a kl 1 di 1, a kl di = υ
+a = πε
+o = ρυ
+o dd, oo = ψού
+i = μεν|
+i = εις|
+i = πά
+pkk = ντας|
+ae3 = τους|
+a kl = αι
+aa = ώ
+i = νας|
+</musicalPiece>
+</typeOfXMLFile>

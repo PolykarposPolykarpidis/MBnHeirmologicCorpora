@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_119v_1</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>119v</startingFolio>
+		<initium>ποντω εκαλυψε φαραω συν αρμασι ο συντριβων</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i, kkoo = πό
+i dd = ντω|-
+i = ε
+oo = κά
+a = λυ
+aa ap = ψε|-
+pi = φα
+a = ρα
+a = ώ|
+a = συν|
+po, a, p = άρ
+ae2, k v 1, a v = μα
+o ap = σιν|-
+echos_c i, i = F -
+i = ο|
+i = συ
+ok2 = ντρί
+i = βων|
+i = πο
+p = λέ
+ae2 = μους|-
+i = εν|
+pi = υ
+a = ψη
+o = λώ|
+po, a = βρα
+i v 1, a v = χί
+i v 1, a v = ο
+i ap = νι|-
+echos_c i, i = F -
+o = ά
+pi = σω
+ae2 = μεν|
+o = αυ
+p = τώ|-
+a = ό
+a = τι|
+a = δε
+ph4 = δό
+e v 1, a v = ξα
+o ap = σται|
+</musicalPiece>
+</typeOfXMLFile>

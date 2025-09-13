@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_75v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>75v</startingFolio>
+		<initium>ποντω εκαλυψε φαραω συν αρμασι ο συντριβων</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+o dd = πό
+p = ντω|
+ae3 = ε
+oo = κά
+a = λυ
+aa = ψε|-
+oh4 = φα
+i = ρα
+po = ώ|
+a = συν|
+oo = άρ
+a = μα
+a = σιν|-
+i = ο|
+i = συ
+oo = ντρί
+a = βων|
+a = πο
+o dd, kkoo = λέ
+i = μους|
+i = εν|
+i = υ
+i = ψη
+p = λώ|
+ae2 = βρα
+oo = χί
+a = ο
+aa = νι|-
+ook2 = ά
+a = σω
+a = μεν|
+po = αυ
+a kl 1 di 1, a kl di = τώ|
+a = ό
+o = τι|
+i = δε
+i kr = δό
+e v 1, kk v 1, e = ξα
+o ap = σται|
+</musicalPiece>
+</typeOfXMLFile>

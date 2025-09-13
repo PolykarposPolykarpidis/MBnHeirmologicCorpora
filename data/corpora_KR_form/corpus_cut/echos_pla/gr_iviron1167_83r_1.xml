@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_83r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>83r</startingFolio>
+		<initium>ο υπερυψουμενος των πατερων κυριος</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa = a -
+ok2 = ο|
+i = υ
+pi anr = πε
+a = ρυ
+oo psr = ψού
+a klr = με
+aa = νος|-
+i = των|
+o = πα
+p anr = τέ
+a = ρων|
+oo psr = κύ
+a klr = ρι
+aa = ος|-
+o = την|
+o is g = φλό
+pi anr = γα|
+a = κα
+o = τέ
+i = σβε
+pi anr = σε|
+ae3 = τους|
+o l 1, kkoo l = παί
+pi = δας|
+a = ε
+oo psr = δρό
+a klr = σι
+aa = σε|-
+i = συμ
+ok2 = φώ
+i = νως|
+pi l 1 = με
+a l g = λω
+p = δού
+ae2 = ντας|
+i = ο|
+pi l 1 = θε
+a l 1 = ός|
+o l = ευ
+o = λο
+oo psr = γη
+a klr = τός|
+aa ap = ει|
+</musicalPiece>
+</typeOfXMLFile>

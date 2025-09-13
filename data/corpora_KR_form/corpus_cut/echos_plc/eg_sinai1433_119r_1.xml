@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_119r_1</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>119r</startingFolio>
+		<initium>αφλεκτος πυρι εν σινα προσομιλουσα βατος θεον εγνωρισε</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+po = ά
+a = φλε
+ae2 = κτος|-
+o = πυ
+o ap = ρί|
+i = εν|
+i v 1, s v, p = σι
+ae2 = νά|
+ook2 = προ
+a = σο
+ae2 = μι
+o dd, kkoo = λού
+i dd = σα|-
+echos_c i, i = F -
+ok2 = βά
+i = τος|
+i = θε
+p = όν|
+a = ε
+oo = γνώ
+a = ρι
+aa = σε|-
+pi = τω|
+ae2, kkoo= βρα
+p = δυ
+ooa = γλώσ
+a = σω|
+a = και|
+a = δυ
+po, a, p = σή
+ae2 = χω|
+o = μω
+o ap = σεί|-
+i = και|
+ok2 = παί
+i = δας|
+ookk = ζή
+a = λος|
+a = θε
+aa = ού|-
+i = τρείς|
+i = α
+i = να
+oo = λώ
+a = τους|
+ae2 = τω|
+o = πυ
+p = ρί|-
+a = υ
+o = μνω
+po, a = δούς|
+i v 1, a v = έ
+i v 1, a v = δει
+i ap = ξε|
+po = πά
+pa = ντα|
+a v 1, a v = τά|
+o, oo, a, a = έρ
+aa = γα|
+i = τόν|
+i = κύ
+ook2 = ρι
+a = ον|
+ae2  = υ
+o dd, kkoo = μνεί
+i dd = τε|-
+echos_c i, i = F -
+pi = και|
+a = υ
+o = πε
+o = ρυ
+p = ψού
+a ap = τε|
+a = εις|
+ae2 = πά
+ook2 = ντας|
+a = τούς|
+ae2 = αι
+o dd, kkoo = ώ
+i ap = νας|
+</musicalPiece>
+</typeOfXMLFile>

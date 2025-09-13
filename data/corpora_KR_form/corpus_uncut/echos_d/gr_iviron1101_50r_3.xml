@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_50r_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>50r</startingFolio>
+		<initium>ερρηξε γαστρος η τεκνωμενης παιδας</initium>
+		<mode>4</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>d</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_d aa, oo4 = d -
+ookk = έρ
+a = ρη
+a = ξε|
+i = γα
+oo = στρός|
+a = η
+a = τε
+o = κνω
+o dd, oo kl = μέ
+ae2 = νης|
+o = παί
+i dd = δας|-
+ook2 = ύ
+a = βριν|
+a = τε|
+i = δυ
+ook2 = σκά
+a = θε
+a = κτον|
+p = ευ
+a = τε
+a kl = κνου
+e dd, kkoo = μέ
+i dd = νης|-
+ac4 = μό
+oh4 = νη|
+i = προ
+i = σευ
+oo = χή|
+a = τής|
+a = προ
+o = φή
+o dd, oo kl = τι
+ae2 = δος|
+o = πά
+i dd = λαι|-
+ook2 = άν
+a = νης|
+a = φε
+ook2 = ρού
+a = σης|
+a = πνεύ
+i = μα|
+p = συ
+a = ντε
+a kl = τριμ
+e dd, kkoo = μέ
+i dd = νον|-
+ok2 = προς| 
+pi = τον|
+ae2 = δυ
+ok2 = νά
+i dd, p = στην|
+e v 1, a v = και|
+a = θε
+o = όν|
+o = των|
+oo = γνώ
+a = σε
+a = ων|
+</musicalPiece>
+</typeOfXMLFile>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_118v_3</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>118v</startingFolio>
+		<initium>ναυτιων τω σαλω των βιοτικων μεληματων συμπλοοις</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i = ναυ
+i = τι
+pi = ών|
+a = τω|
+o dd, oo = σά
+i ap = λω|
+i = των|
+i = βι
+i v 1, s v, p = ο
+ae2 = τι
+ook2 = κών|
+a = με
+ae2 = λη
+o dd, kkoo = μά
+i dd = των|-
+echos_c i, i = F -
+i = συ
+ok2 = μπλό
+i = οις|
+i = πο
+oo = ντού
+a = με
+aa = νος|-
+i = α
+i = μαρ
+p = τί
+a ap = αις|-
+i = και|
+i = ψυ
+i = χο
+pi = φθό
+ae2, kkoo = ρω|
+p = θη
+a di 1, a di = ρί|
+a = προσ
+a = ρι
+po, a, p = πτού
+ae2, k v 1, a v = με
+o ap = νος|-
+echos_c i, i = F -
+o = ως|
+i = ο|
+i = ι
+i v 1, s v, p = ω
+ae2 = νάς|
+ook2 = χρι
+a = στέ|
+ae2 = βο
+o dd, kkoo = ώ|
+i ap = σοι|-
+o = εκ|
+pi = θα
+ae2 = να
+o = τη
+o = φό
+i = ρου|
+pi = με|
+a = βυ
+a = θού|
+a = α
+ph4 = νά
+e v 1, a v = γα
+o ap = γε|
+</musicalPiece>
+</typeOfXMLFile>

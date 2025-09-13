@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_123v_2</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>123v</startingFolio>
+		<initium>διασκεδασας την νυκτα των παθων λαμψον μοι φως νοερον</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+pi = δι
+a = α
+o = σκε
+o v 1, s v, p = δά
+ae2 = σας|
+ook2 = την|
+a = νύ
+ae2 = κτα|
+o = των|
+o = πα
+o ap = θών|-
+ok2 = λάμ
+i = ψον|
+i = μοι|
+i = φως|
+oo = νο
+a = ε
+aa = ρόν|-
+pi = ο|
+ae2 = το|
+o = αρ
+o = χέ
+i = γο
+i = νον|
+p = σκό
+a ap = τος|-
+a = δι
+ae2 = ώ
+ook2 = ξας|
+a = της|
+ae2 = α
+o dd, kkoo = βύσ
+i ap = σου|-
+echos_c i, i = F -
+pi = και|
+a = το|
+o = πρω
+po = τό
+a = κτι
+i ap = στον|-
+i = φως|
+i v 1, s v, p = κα
+ae2 = τα
+ook2 = λάμ
+a = ψας|
+ae2 = τω|
+o dd, kkoo = κό
+i ap = σμω|-
+p = δη
+a = μι
+ae2 = ουρ
+o dd, kkoo, oo = γέ|
+pi = του|
+e v 1, a v = πα
+o ap = ντός|
+</musicalPiece>
+</typeOfXMLFile>

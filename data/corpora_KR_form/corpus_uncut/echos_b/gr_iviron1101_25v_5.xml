@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_25v_5</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>25v</startingFolio>
+		<initium>βυθου ανεκαλυψε πυθμενα και διαξηρας οικειους</initium>
+		<mode>2</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>b</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_b aa, kkoo = b -
+i v 1 kl 1, a v kl = βυ
+aa, kkoo = θού|
+i = α
+pikk = νε
+a kl 1 di 1, a kl di = κά
+a = λυ
+o = ψε|
+po = πυθ
+a dd = μέ
+i dd, ookk, a, o dd = να|-
+e v 1, kk v = και|
+ae2 = δι
+okk = α|
+o = ξη
+ooi = ράς|
+a = οι
+a = κεί
+a = ους|
+ok2 kr = έλ
+a xkl 1, oo xkl 1 kl, s xkl dd = κει|-
+o = εν|
+o = αυ
+ook2, kk = τώ|
+a = κα
+a = τα
+i = κα
+i = λή
+p = ψας|
+ae2 = αν
+o v 1 kl 1, a v kl = τι
+aa = πά
+i = λους|-
+i = ο|
+i = κρά
+i = ται
+oo kl = ός|
+ae2 = εν|
+okk = πο
+po = λέ
+a dd = μοις|-
+ookk = κύ
+a = ρι
+a = ος|
+pi = ό
+ae2 = τι|
+o v 1 kl 1, a v kl = δε
+aa, ookk = δό
+a dd = ξα
+i = σται|
+</musicalPiece>
+</typeOfXMLFile>

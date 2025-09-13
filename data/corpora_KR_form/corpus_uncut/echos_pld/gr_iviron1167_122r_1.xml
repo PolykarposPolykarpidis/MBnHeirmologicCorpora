@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_122r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>122r</startingFolio>
+		<initium>μυστικος ει θεοτοκε παραδεισος</initium>
+		<mode>8</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>G</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_d i dd = G -
+ok3 = μυ
+i = στι
+p anr = κός|
+a = εί|
+pi = θε
+ae2 xkl 1 trr 1 = ο
+ook2 xkl 1 trr 1 g, a xkl 1 trr 1, a xkl trr = τό
+aa = κε|-
+i = πα
+ooh4 = ρά
+i = δει
+i ap = σος|-
+ae2 = α
+i = γε
+po = ωρ
+s xkl 1 trr 1, oo xkl 1 trr 1 g, a xkl 1 trr 1, a xkl trr = γή
+a = τως|-
+ok2kk is g = βλα
+p anr = στή
+a v 1 klr 1, a v klr = σα
+i v 1 klr 1, a v klr = σα|
+pi is g l 1, a l = χρι
+i ap = στόν|-
+echos_d aa = G -
+i = υφ|
+p = ού|
+e v 1, a v = τό|
+aa = τού|
+okk = σταυ
+o ap = ρού|-
+ooh4 = ζω
+o = η
+o xkl 1 trr 1, oo xkl 1 trr 1, a xkl 1 trr 1, a xkl trr = φό
+a kl  vv 1 = ρον|
+ae2 vv, kk g = εν|
+o ap = γή|-
+i = πε
+i = φυ
+i v 1 klr 1 ll 1, s v klr ll 1, p ll = τούρ
+ae2 xkl 1 trr 1, ook2 xkl 1 trr 1 g = γη
+a xkl 1 trr 1, a xkl trr = ται|
+a, ook3 pht3 = δέν
+i is g ap = δρον|-
+i = δι|
+po anr = ού|
+a = νύν|
+pi anr  1= υ
+a anr 1 v 1 klr 1, a anr v  klr = ψου
+o v 1 klr 1, a v klr, o xkl 1 trr 1, oo xkl 1 trr 1 g, a xkl 1 trr 1, a xkl trr = μέ
+aa = νου|-
+echos_a aa = a -
+o is g = προ
+o = σκυ
+o v 1 klr 1 l 1, a v klr l 1 = νού
+o l = ντες|
+po klr ps = αυ
+ae2 = τόν|-
+a klr anr = σέ|
+a = με
+i = γα
+p psr = λύ
+e v 1 anr 1, a v anr = νο
+i ap = μεν|
+</musicalPiece>
+</typeOfXMLFile>

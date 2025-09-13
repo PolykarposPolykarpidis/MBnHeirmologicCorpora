@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_14r_4</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>14r</startingFolio>
+		<initium>ορθρισωμεν ορθρου βαθεως και αντι μυρου τον υμνον</initium>
+		<mode>1</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa, ooh4 = a -
+pi = ορ
+a = θρί
+o = σω
+i dd, kkoo = μεν|
+p = όρ
+a = θρου|
+i = βα
+p = θέ
+a = ος|
+p = και|
+a = α
+a kl = ντί|
+aa, kkoo = μυ
+i dd = ρου|-
+i = τον|
+p = ύ
+a kl = μνον|
+a = προ
+oo = σοί
+a = σο
+a = μεν|
+p = τω|
+ae2 = δε
+o = σπό
+i om 1, ook2 om 1, a om 1, a om = τη|-
+a = και|
+o = χρι
+po = στόν|
+a = ο
+oo = ψό
+a = με
+a = θα|
+i = δι
+ook2 = και
+a = ο
+a = σύ
+po = νης|
+a kl = ή
+ae2 = λι
+ok3 dd = ον|-
+p = πά
+a = σι|
+i = ζω
+pi = ήν|
+a kl = α
+a = να
+ook2 = τέλ
+a = λο
+a = ντα|
+</musicalPiece>
+</typeOfXMLFile>

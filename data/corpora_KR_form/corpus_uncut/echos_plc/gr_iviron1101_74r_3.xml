@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_74r_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>74r</startingFolio>
+		<initium>ο πατρικους κολπους μη λιπων και καταβας επι της γης</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+pi = ο|
+a = πα
+o = τρι
+ok2 dd = κούς|
+ook2 = κόλ
+a = πους|-
+a = μή|
+i = λι
+ook2 = πών|
+a = και|
+a = κα
+i = τα
+i = βάς|-
+po = ε
+a kl 1 di 1, a kl di = πί|
+a = της|
+okk = γής|
+o kl 1 v 1, ae3 kl v = χρι
+o dd = στέ|
+a = ο|
+a = θε
+i dd = ός|-
+oh4 = το|
+i = μυ
+p = στή
+a = ρι
+pi = ον|
+a = α
+oo = κή
+a = κο
+aa, kkoo = α|-
+p = της|
+a = οι
+pi = κο
+a = νο
+oo = μί
+a = ας|
+aa = σου|-
+i = και|
+i = ε
+i = δό
+po = ξα
+a kl vv 1, e vv = σά|
+okk = σε|
+o kl 1 v 1, ae3 kl v = φι
+o dd = λάν
+a ve 1, a ve = θρω
+i = πε|
+</musicalPiece>
+</typeOfXMLFile>

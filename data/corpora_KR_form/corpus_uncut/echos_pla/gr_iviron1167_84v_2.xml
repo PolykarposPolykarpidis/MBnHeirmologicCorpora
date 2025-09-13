@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1167_84v_2</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1167</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>84v</startingFolio>
+		<initium>ο εν καμινω πυρος τους υμνολογους σωσας παιδας</initium>
+		<mode>5</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>theophanes karykes</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa = a - # βλ Ιβήρων 1154 φ 82r
+i = ο|
+i = εν|
+o = κά
+o = μί
+pi anr = νω|
+a = πυ
+o = ρός|-
+i = τους|
+pi anr = υ
+a is g = μνο
+ae2 = λό
+o = γους|
+po klr = σώ
+a = σας|
+pi anr, a = παί
+i ap = δας|-
+echos_a aa = a -
+i = ευ
+i = λο
+o = γη
+oo psr = τός|
+a klr 1 = ο|
+a klr = θε
+ooi psr = ός|-
+a klr = ο|
+a = των|
+o = πά
+okk g = τε
+pi l 1 g= ρων|
+a l 1 = η
+i l ap = μών|
+</musicalPiece>
+</typeOfXMLFile>

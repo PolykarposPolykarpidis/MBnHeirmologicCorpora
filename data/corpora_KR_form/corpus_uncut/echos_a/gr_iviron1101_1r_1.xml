@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_1r_1</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>1r</startingFolio>
+		<initium>σου η τροπαιουχος δεξια θεοπρεπως εν</initium>
+		<mode>1</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>a</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_a aa, ooh4 = a - 
+i = σου |
+i = η
+pi = τρο
+a = παι
+oo = ού
+a= χος |
+ae2, kk = δε
+okk = ξι
+i ap = ά |-
+pi = θε
+a = ο
+o = πρε
+o = πώς |
+o = εν |
+i = ι
+p = σχύ
+a kl = ει |
+a = δε
+oo = δό
+a = ξα
+aa, kkoo = σται |-
+p = αύ
+a = τη |
+pi = γαρ |
+a = α
+oo = θά
+a = να
+a = τε |-
+i = ως |
+i = παν
+o = σθε
+oo = νής |
+a = υ
+a = πε
+i = να
+i = ντί
+po = ους
+a kl = έ
+ae2 = θραυ
+ok3 dd = σε |-
+i = τους|
+i = ι
+i = σρα
+p = η
+aae3, ookk, a g = λί
+o dd, p = τας |-
+a = ο
+p = δόν |
+a = βυ
+p = θού |
+ae2, kk = και
+ae2 = νουρ
+ook2 = γή
+a = σα
+a = σα|
+</musicalPiece>
+</typeOfXMLFile>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>eg_sinai1433_119r_2</nameFile>
+
+		<!--manuscript-->
+		<library>sinai</library>
+		<libraryΝumber>1433</libraryΝumber>
+		<catalogue>stathes gregorios 2015:470-471</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>119r</startingFolio>
+		<initium>μη της φθορας διαπειρα κυοφορησασα και παντεχνημονι λόγω σαρκα δανεισασα</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>balasis</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+i = μη|
+pi = της|
+a = φθο
+o dd, oo = ράς|-
+i = δι
+i = α|
+p = πεί
+a = ρα|
+i v 1, a v = κυ
+o = ο
+po, a = φο
+i v 1, a v = ρή
+i v 1, a v = σα
+i dd = σα|-
+echos_varys o dd = F -
+i = και|
+i = πα
+i = ντε
+ook3 = χνή
+a = μο
+a = νι|
+p = λό
+a ap = γω|-
+pi = σάρ
+a = κα|
+a = δα
+a, po, a, p = νεί
+ae2, k v 1, a v = σα
+o ap = σα|-
+ok2 = μή
+i = τερ|
+i = α
+oo = πεί
+a = ραν
+a ap = δρε|-
+a = παρ
+ae2 = θέ
+ook2 = νε|
+a = θε
+ae2 = ο
+o dd, kkoo, a = τό
+o ap = κε|-
+i = δο
+po = χεί
+a = ον|
+pi = του|
+a v 1, a v = α
+o, oo, a, a = στέ
+aa = κτου|-
+i = χω
+i = ρί
+ook2 = ον|
+a = του|
+ae2 = α
+o dd, kkoo, a = πεί
+o ap = ρου|-
+echos_c i, i = F -
+a = πλα
+o = στουρ
+o = γού|
+i = σου|-
+pi, a = σε|
+a = με
+a = γα
+po, a, p = λύ
+ae2, k v 1, a v = νο
+o ap = μεν|
+</musicalPiece>
+</typeOfXMLFile>

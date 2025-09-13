@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeOfXMLFile encodingDescription="byzMusicXML" version="1.0">
+	<head>
+		<!--meta-->
+		<nameFile>gr_iviron1101_80r_3</nameFile>
+
+		<!--manuscript-->
+		<library>iviron</library>
+		<libraryΝumber>1101</libraryΝumber>
+		<catalogue>Chaldaiakis 2015:175-208</catalogue>
+		
+		<!--musicPiece-->
+		<startingFolio>80r</startingFolio>
+		<initium>βυθω αμαρτηματων περιπεσων αγαθε</initium>
+		<mode>7</mode>
+		<kind>heirmos</kind>
+		<numLine>1</numLine>
+		<startingPitch>F</startingPitch>
+		<composer>Αnonymous</composer>
+
+		<!--languageAndAlphabet-->
+		<lyricsLang>greek</lyricsLang>
+		<alphabet>greek</alphabet>
+
+		<!--moreDetails-->
+		<moreDetails/>
+		<orthography>recension</orthography>
+	</head>
+	<musicalPiece>
+echos_varys o dd = F -
+a, kk = βυ
+oo = θώ|
+a = α
+a = μαρ
+o = τη
+o dd, oo = μά
+o v 1 kl 1, a v kl = των|
+a = πε
+okk = ρι
+o kl 1 v 1, ae3 kl v = πε
+o dd = σών|
+a = α
+a = γα
+i = θέ|-
+ok2 = ως|
+i = ι
+o = ω
+o kl an 1, a an, o om 1, oo om 1, a om 1, a om = νάς|
+a = εκ|
+i = του|
+pi = κή
+a = τους|
+o v 1 kl 1, a v kl = βο
+aa = ώ|
+i = σοι|-
+ok2 = α
+po = νά
+a = γα
+o om 1, oo om 1, a om 1, a om = γε|
+a kl = εκ|
+a = φθο
+o dd = ράς|
+# έχει παραπάνω συλλαβές το έχω προσαρμώσει
+a = την|	# το έχω αλλάξει
+p = ζω	# το έχω αλλάξει
+ae2 dd = ήν|	# το έχω αλλάξει
+i = μου|	# το έχω αλλάξει
+</musicalPiece>
+</typeOfXMLFile>
